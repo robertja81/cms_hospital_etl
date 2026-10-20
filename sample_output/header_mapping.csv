@@ -1,0 +1,1297 @@
+dataset_id,original_header,snake_case_header
+48nr-hqxx,Facility ID,facility_id
+48nr-hqxx,Facility Name,facility_name
+48nr-hqxx,Address,address
+48nr-hqxx,City/Town,city_town
+48nr-hqxx,State,state
+48nr-hqxx,ZIP Code,zip_code
+48nr-hqxx,County/Parish,county_parish
+48nr-hqxx,Telephone Number,telephone_number
+48nr-hqxx,Patients who reported that staff definitely gave care in a professional way and the facility was clean,patients_who_reported_that_staff_definitely_gave_care_in_a_professional_way_and_the_facility_was_clean
+48nr-hqxx,Patients who reported that staff somewhat gave care in a professional way or the facility was somewhat clean,patients_who_reported_that_staff_somewhat_gave_care_in_a_professional_way_or_the_facility_was_somewhat_clean
+48nr-hqxx,Patients who reported that staff did not give care in a professional way or the facility was not clean,patients_who_reported_that_staff_did_not_give_care_in_a_professional_way_or_the_facility_was_not_clean
+48nr-hqxx,Facilities and staff linear mean score,facilities_and_staff_linear_mean_score
+48nr-hqxx,Patients who reported that staff definitely communicated about what to expect during and after the procedure,patients_who_reported_that_staff_definitely_communicated_about_what_to_expect_during_and_after_the_procedure
+48nr-hqxx,Patients who reported that staff somewhat communicated about what to expect during and after the procedure,patients_who_reported_that_staff_somewhat_communicated_about_what_to_expect_during_and_after_the_procedure
+48nr-hqxx,Patients who reported that staff did not communicate about what to expect during and after the procedure,patients_who_reported_that_staff_did_not_communicate_about_what_to_expect_during_and_after_the_procedure
+48nr-hqxx,Communication about your procedure linear mean score,communication_about_your_procedure_linear_mean_score
+48nr-hqxx,Patients who gave the facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest),patients_who_gave_the_facility_a_rating_of_9_or_10_on_a_scale_from_0_lowest_to_10_highest
+48nr-hqxx,Patients who gave the facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest),patients_who_gave_the_facility_a_rating_of_7_or_8_on_a_scale_from_0_lowest_to_10_highest
+48nr-hqxx,Patients who gave the facility a rating of 0 to 6 on a scale from 0 (lowest) to 10 (highest),patients_who_gave_the_facility_a_rating_of_0_to_6_on_a_scale_from_0_lowest_to_10_highest
+48nr-hqxx,Patients' rating of the facility linear mean score,patients_rating_of_the_facility_linear_mean_score
+48nr-hqxx,Patients who reported YES they would DEFINITELY recommend the facility to family or friends,patients_who_reported_yes_they_would_definitely_recommend_the_facility_to_family_or_friends
+48nr-hqxx,Patients who reported PROBABLY YES they would recommend the facility to family or friends,patients_who_reported_probably_yes_they_would_recommend_the_facility_to_family_or_friends
+48nr-hqxx,"Patients who reported NO, they would not recommend the facility to family or friends",patients_who_reported_no_they_would_not_recommend_the_facility_to_family_or_friends
+48nr-hqxx,Patients recommending the facility linear mean score,patients_recommending_the_facility_linear_mean_score
+48nr-hqxx,Footnote,footnote
+48nr-hqxx,Number of Sampled Patients,number_of_sampled_patients
+48nr-hqxx,Number of Completed Surveys,number_of_completed_surveys
+48nr-hqxx,Survey Response Rate Percent,survey_response_rate_percent
+48nr-hqxx,Start Date,start_date
+48nr-hqxx,End Date,end_date
+4jcv-atw7,Facility Name,facility_name
+4jcv-atw7,Facility ID,facility_id
+4jcv-atw7,NPI,npi
+4jcv-atw7,City/Town,city_town
+4jcv-atw7,State,state
+4jcv-atw7,ZIP Code,zip_code
+4jcv-atw7,Year,year
+4jcv-atw7,ASC-1 Rate*,asc_1_rate
+4jcv-atw7,ASC-1 Footnote,asc_1_footnote
+4jcv-atw7,ASC-2 Rate*,asc_2_rate
+4jcv-atw7,ASC-2 Footnote,asc_2_footnote
+4jcv-atw7,ASC-3 Rate*,asc_3_rate
+4jcv-atw7,ASC-3 Footnote,asc_3_footnote
+4jcv-atw7,ASC-4 Rate*,asc_4_rate
+4jcv-atw7,ASC-4 Footnote,asc_4_footnote
+4jcv-atw7,ASC-9 Rate*,asc_9_rate
+4jcv-atw7,ASC-9 Footnote,asc_9_footnote
+4jcv-atw7,ASC-11 Rate*,asc_11_rate
+4jcv-atw7,ASC-11 Footnote,asc_11_footnote
+4jcv-atw7,ASC-12 Total Cases,asc_12_total_cases
+4jcv-atw7,ASC-12 Performance Category,asc_12_performance_category
+4jcv-atw7,ASC-12 RSHV Rate,asc_12_rshv_rate
+4jcv-atw7,ASC-12 Interval Lower Limit,asc_12_interval_lower_limit
+4jcv-atw7,ASC-12 Interval Upper Limit,asc_12_interval_upper_limit
+4jcv-atw7,ASC-12 Footnote,asc_12_footnote
+4jcv-atw7,ASC-13 Rate*,asc_13_rate
+4jcv-atw7,ASC-13 Footnote,asc_13_footnote
+4jcv-atw7,ASC-14 Rate*,asc_14_rate
+4jcv-atw7,ASC-14 Footnote,asc_14_footnote
+4jcv-atw7,ASC-17 Total Cases,asc_17_total_cases
+4jcv-atw7,ASC-17 Performance Category,asc_17_performance_category
+4jcv-atw7,ASC-17 RSHV Rate,asc_17_rshv_rate
+4jcv-atw7,ASC-17 Interval Lower Limit,asc_17_interval_lower_limit
+4jcv-atw7,ASC-17 Interval Upper Limit,asc_17_interval_upper_limit
+4jcv-atw7,ASC-17 Footnote,asc_17_footnote
+4jcv-atw7,ASC-18 Total Cases,asc_18_total_cases
+4jcv-atw7,ASC-18 Performance Category,asc_18_performance_category
+4jcv-atw7,ASC-18 RSHV Rate,asc_18_rshv_rate
+4jcv-atw7,ASC-18 Interval Lower Limit,asc_18_interval_lower_limit
+4jcv-atw7,ASC-18 Interval Upper Limit,asc_18_interval_upper_limit
+4jcv-atw7,ASC-18 Footnote,asc_18_footnote
+4jcv-atw7,ASC-19 Total Cases,asc_19_total_cases
+4jcv-atw7,ASC-19 Performance Category,asc_19_performance_category
+4jcv-atw7,ASC-19 RSHV Rate,asc_19_rshv_rate
+4jcv-atw7,ASC-19 Interval Lower Limit,asc_19_interval_lower_limit
+4jcv-atw7,ASC-19 Interval Upper Limit,asc_19_interval_upper_limit
+4jcv-atw7,ASC-19 Footnote,asc_19_footnote
+wue8-3vwe,Year,year
+wue8-3vwe,Avg ASC-1 Nat Rate*,avg_asc_1_nat_rate
+wue8-3vwe,Median ASC-1 Nat Rate*,median_asc_1_nat_rate
+wue8-3vwe,Avg ASC-2 Nat Rate*,avg_asc_2_nat_rate
+wue8-3vwe,Median ASC-2 Nat Rate*,median_asc_2_nat_rate
+wue8-3vwe,Avg ASC-3 Nat Rate*,avg_asc_3_nat_rate
+wue8-3vwe,Median ASC-3 Nat Rate*,median_asc_3_nat_rate
+wue8-3vwe,Avg ASC-4 Nat Rate*,avg_asc_4_nat_rate
+wue8-3vwe,Median ASC-4 Nat Rate*,median_asc_4_nat_rate
+wue8-3vwe,Avg ASC-9 Nat Rate*,avg_asc_9_nat_rate
+wue8-3vwe,Median ASC-9 Nat Rate*,median_asc_9_nat_rate
+wue8-3vwe,Avg ASC-11 Nat Rate*,avg_asc_11_nat_rate
+wue8-3vwe,Median ASC-11 Nat Rate*,median_asc_11_nat_rate
+wue8-3vwe,ASC-12 Nat Rate,asc_12_nat_rate
+wue8-3vwe,ASC-12 Better,asc_12_better
+wue8-3vwe,ASC-12 No Different,asc_12_no_different
+wue8-3vwe,ASC-12 Worse,asc_12_worse
+wue8-3vwe,ASC-12 Too Small,asc_12_too_small
+wue8-3vwe,Avg ASC-13 Nat Rate*,avg_asc_13_nat_rate
+wue8-3vwe,Median ASC-13 Nat Rate*,median_asc_13_nat_rate
+wue8-3vwe,Avg ASC-14 Nat Rate*,avg_asc_14_nat_rate
+wue8-3vwe,Median ASC-14 Nat Rate*,median_asc_14_nat_rate
+wue8-3vwe,ASC-17 Nat Rate,asc_17_nat_rate
+wue8-3vwe,ASC-17 Better,asc_17_better
+wue8-3vwe,ASC-17 No Different,asc_17_no_different
+wue8-3vwe,ASC-17 Worse,asc_17_worse
+wue8-3vwe,ASC-17 Too Small,asc_17_too_small
+wue8-3vwe,ASC-18 Nat Rate,asc_18_nat_rate
+wue8-3vwe,ASC-18 Better,asc_18_better
+wue8-3vwe,ASC-18 No Different,asc_18_no_different
+wue8-3vwe,ASC-18 Worse,asc_18_worse
+wue8-3vwe,ASC-18 Too Small,asc_18_too_small
+wue8-3vwe,ASC-19 Nat Rate,asc_19_nat_rate
+wue8-3vwe,ASC-19 Better,asc_19_better
+wue8-3vwe,ASC-19 No Different,asc_19_no_different
+wue8-3vwe,ASC-19 Worse,asc_19_worse
+wue8-3vwe,ASC-19 Too Small,asc_19_too_small
+tf3h-mrrs,Patients who reported that staff definitely gave care in a professional way and the facility was clean,patients_who_reported_that_staff_definitely_gave_care_in_a_professional_way_and_the_facility_was_clean
+tf3h-mrrs,Patients who reported that staff somewhat gave care in a professional way or the facility was somewhat clean,patients_who_reported_that_staff_somewhat_gave_care_in_a_professional_way_or_the_facility_was_somewhat_clean
+tf3h-mrrs,Patients who reported that staff did not give care in a professional way or the facility was not clean,patients_who_reported_that_staff_did_not_give_care_in_a_professional_way_or_the_facility_was_not_clean
+tf3h-mrrs,Facilities and staff linear mean score,facilities_and_staff_linear_mean_score
+tf3h-mrrs,Patients who reported that staff definitely communicated about what to expect during and after the procedure,patients_who_reported_that_staff_definitely_communicated_about_what_to_expect_during_and_after_the_procedure
+tf3h-mrrs,Patients who reported that staff somewhat communicated about what to expect during and after the procedure,patients_who_reported_that_staff_somewhat_communicated_about_what_to_expect_during_and_after_the_procedure
+tf3h-mrrs,Patients who reported that staff did not communicate about what to expect during and after the procedure,patients_who_reported_that_staff_did_not_communicate_about_what_to_expect_during_and_after_the_procedure
+tf3h-mrrs,Communication about your procedure linear mean score,communication_about_your_procedure_linear_mean_score
+tf3h-mrrs,Patients who gave the facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest),patients_who_gave_the_facility_a_rating_of_9_or_10_on_a_scale_from_0_lowest_to_10_highest
+tf3h-mrrs,Patients who gave the facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest),patients_who_gave_the_facility_a_rating_of_7_or_8_on_a_scale_from_0_lowest_to_10_highest
+tf3h-mrrs,Patients who gave the facility a rating of 0 to 6 on a scale from 0 (lowest) to 10 (highest),patients_who_gave_the_facility_a_rating_of_0_to_6_on_a_scale_from_0_lowest_to_10_highest
+tf3h-mrrs,Patients' rating of the facility linear mean score,patients_rating_of_the_facility_linear_mean_score
+tf3h-mrrs,Patients who reported YES they would DEFINITELY recommend the facility to family or friends,patients_who_reported_yes_they_would_definitely_recommend_the_facility_to_family_or_friends
+tf3h-mrrs,Patients who reported PROBABLY YES they would recommend the facility to family or friends,patients_who_reported_probably_yes_they_would_recommend_the_facility_to_family_or_friends
+tf3h-mrrs,"Patients who reported NO, they would not recommend the facility to family or friends",patients_who_reported_no_they_would_not_recommend_the_facility_to_family_or_friends
+tf3h-mrrs,Patients recommending the facility linear mean score,patients_recommending_the_facility_linear_mean_score
+tf3h-mrrs,Number of Sampled Patients,number_of_sampled_patients
+tf3h-mrrs,Number of Completed Surveys,number_of_completed_surveys
+tf3h-mrrs,Survey Response Rate Percent,survey_response_rate_percent
+tf3h-mrrs,Start Date,start_date
+tf3h-mrrs,End Date,end_date
+axe7-s95e,State,state
+axe7-s95e,Year,year
+axe7-s95e,Avg ASC-1 State Rate*,avg_asc_1_state_rate
+axe7-s95e,Median ASC-1 State Rate*,median_asc_1_state_rate
+axe7-s95e,Avg ASC-2 State Rate*,avg_asc_2_state_rate
+axe7-s95e,Median ASC-2 State Rate*,median_asc_2_state_rate
+axe7-s95e,Avg ASC-3 State Rate*,avg_asc_3_state_rate
+axe7-s95e,Median ASC-3 State Rate*,median_asc_3_state_rate
+axe7-s95e,Avg ASC-4 State Rate*,avg_asc_4_state_rate
+axe7-s95e,Median ASC-4 State Rate*,median_asc_4_state_rate
+axe7-s95e,Avg ASC-9 State Rate*,avg_asc_9_state_rate
+axe7-s95e,Median ASC-9 State Rate*,median_asc_9_state_rate
+axe7-s95e,Avg ASC-11 State Rate*,avg_asc_11_state_rate
+axe7-s95e,Median ASC-11 State Rate*,median_asc_11_state_rate
+axe7-s95e,ASC-12 Better,asc_12_better
+axe7-s95e,ASC-12 No Different,asc_12_no_different
+axe7-s95e,ASC-12 Worse,asc_12_worse
+axe7-s95e,ASC-12 Too Small,asc_12_too_small
+axe7-s95e,Avg ASC-13 State Rate*,avg_asc_13_state_rate
+axe7-s95e,Median ASC-13 State Rate*,median_asc_13_state_rate
+axe7-s95e,Avg ASC-14 State Rate*,avg_asc_14_state_rate
+axe7-s95e,Median ASC-14 State Rate*,median_asc_14_state_rate
+axe7-s95e,ASC-17 Better,asc_17_better
+axe7-s95e,ASC-17 No Different,asc_17_no_different
+axe7-s95e,ASC-17 Worse,asc_17_worse
+axe7-s95e,ASC-17 Too Small,asc_17_too_small
+axe7-s95e,ASC-18 Better,asc_18_better
+axe7-s95e,ASC-18 No Different,asc_18_no_different
+axe7-s95e,ASC-18 Worse,asc_18_worse
+axe7-s95e,ASC-18 Too Small,asc_18_too_small
+axe7-s95e,ASC-19 Better,asc_19_better
+axe7-s95e,ASC-19 No Different,asc_19_no_different
+axe7-s95e,ASC-19 Worse,asc_19_worse
+axe7-s95e,ASC-19 Too Small,asc_19_too_small
+x663-bwbj,State,state
+x663-bwbj,Patients who reported that staff definitely gave care in a professional way and the facility was clean,patients_who_reported_that_staff_definitely_gave_care_in_a_professional_way_and_the_facility_was_clean
+x663-bwbj,Patients who reported that staff somewhat gave care in a professional way or the facility was somewhat clean,patients_who_reported_that_staff_somewhat_gave_care_in_a_professional_way_or_the_facility_was_somewhat_clean
+x663-bwbj,Patients who reported that staff did not give care in a professional way or the facility was not clean,patients_who_reported_that_staff_did_not_give_care_in_a_professional_way_or_the_facility_was_not_clean
+x663-bwbj,Facilities and staff linear mean score,facilities_and_staff_linear_mean_score
+x663-bwbj,Patients who reported that staff definitely communicated about what to expect during and after the procedure,patients_who_reported_that_staff_definitely_communicated_about_what_to_expect_during_and_after_the_procedure
+x663-bwbj,Patients who reported that staff somewhat communicated about what to expect during and after the procedure,patients_who_reported_that_staff_somewhat_communicated_about_what_to_expect_during_and_after_the_procedure
+x663-bwbj,Patients who reported that staff did not communicate about what to expect during and after the procedure,patients_who_reported_that_staff_did_not_communicate_about_what_to_expect_during_and_after_the_procedure
+x663-bwbj,Communication about your procedure linear mean score,communication_about_your_procedure_linear_mean_score
+x663-bwbj,Patients who gave the facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest),patients_who_gave_the_facility_a_rating_of_9_or_10_on_a_scale_from_0_lowest_to_10_highest
+x663-bwbj,Patients who gave the facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest),patients_who_gave_the_facility_a_rating_of_7_or_8_on_a_scale_from_0_lowest_to_10_highest
+x663-bwbj,Patients who gave the facility a rating of 0 to 6 on a scale from 0 (lowest) to 10 (highest),patients_who_gave_the_facility_a_rating_of_0_to_6_on_a_scale_from_0_lowest_to_10_highest
+x663-bwbj,Patients' rating of the facility linear mean score,patients_rating_of_the_facility_linear_mean_score
+x663-bwbj,Patients who reported YES they would DEFINITELY recommend the facility to family or friends,patients_who_reported_yes_they_would_definitely_recommend_the_facility_to_family_or_friends
+x663-bwbj,Patients who reported PROBABLY YES they would recommend the facility to family or friends,patients_who_reported_probably_yes_they_would_recommend_the_facility_to_family_or_friends
+x663-bwbj,"Patients who reported NO, they would not recommend the facility to family or friends",patients_who_reported_no_they_would_not_recommend_the_facility_to_family_or_friends
+x663-bwbj,Patients recommending the facility linear mean score,patients_recommending_the_facility_linear_mean_score
+x663-bwbj,Number of Sampled Patients,number_of_sampled_patients
+x663-bwbj,Number of Completed Surveys,number_of_completed_surveys
+x663-bwbj,Survey Response Rate Percent,survey_response_rate_percent
+x663-bwbj,Start Date,start_date
+x663-bwbj,End Date,end_date
+tqkv-mgxq,Facility ID,facility_id
+tqkv-mgxq,Facility Name,facility_name
+tqkv-mgxq,MSA,msa
+tqkv-mgxq,MSA Title,msa_title
+tqkv-mgxq,HCAHPS HLMR,hcahps_hlmr
+tqkv-mgxq,HCAHPS HLMR Percentile,hcahps_hlmr_percentile
+tqkv-mgxq,HCAHPS Start Date,hcahps_start_date
+tqkv-mgxq,HCAHPS End Date,hcahps_end_date
+tqkv-mgxq,HCAHPS Footnote,hcahps_footnote
+tqkv-mgxq,COMP-HIP-KNEE,comp_hip_knee
+tqkv-mgxq,COMP-HIP-KNEE Percentile,comp_hip_knee_percentile
+tqkv-mgxq,COMP Start Date,comp_start_date
+tqkv-mgxq,COMP End Date,comp_end_date
+tqkv-mgxq,COMP Footnote,comp_footnote
+tqkv-mgxq,PRO,pro
+tqkv-mgxq,PRO Start Date,pro_start_date
+tqkv-mgxq,PRO End Date,pro_end_date
+tqkv-mgxq,Reconciliation Footnote,reconciliation_footnote
+muwa-iene,Facility ID,facility_id
+muwa-iene,Facility Name,facility_name
+muwa-iene,Address,address
+muwa-iene,City/Town,city_town
+muwa-iene,State,state
+muwa-iene,ZIP Code,zip_code
+muwa-iene,County/Parish,county_parish
+muwa-iene,Measure ID,measure_id
+muwa-iene,Measure Name,measure_name
+muwa-iene,Rate,rate
+muwa-iene,Footnote,footnote
+muwa-iene,Start Date,start_date
+muwa-iene,End Date,end_date
+ynj2-r877,Facility ID,facility_id
+ynj2-r877,Facility Name,facility_name
+ynj2-r877,Address,address
+ynj2-r877,City/Town,city_town
+ynj2-r877,State,state
+ynj2-r877,ZIP Code,zip_code
+ynj2-r877,County/Parish,county_parish
+ynj2-r877,Telephone Number,telephone_number
+ynj2-r877,Measure ID,measure_id
+ynj2-r877,Measure Name,measure_name
+ynj2-r877,Compared to National,compared_to_national
+ynj2-r877,Denominator,denominator
+ynj2-r877,Score,score
+ynj2-r877,Lower Estimate,lower_estimate
+ynj2-r877,Higher Estimate,higher_estimate
+ynj2-r877,Footnote,footnote
+ynj2-r877,Start Date,start_date
+ynj2-r877,End Date,end_date
+qqw3-t4ie,Measure ID,measure_id
+qqw3-t4ie,Measure Name,measure_name
+qqw3-t4ie,National Rate,national_rate
+qqw3-t4ie,Number of Hospitals Worse,number_of_hospitals_worse
+qqw3-t4ie,Number of Hospitals Same,number_of_hospitals_same
+qqw3-t4ie,Number of Hospitals Better,number_of_hospitals_better
+qqw3-t4ie,Number of Hospitals Too Few,number_of_hospitals_too_few
+qqw3-t4ie,Footnote,footnote
+qqw3-t4ie,Start Date,start_date
+qqw3-t4ie,End Date,end_date
+bs2r-24vh,State,state
+bs2r-24vh,Measure ID,measure_id
+bs2r-24vh,Measure Name,measure_name
+bs2r-24vh,Number of Hospitals Worse,number_of_hospitals_worse
+bs2r-24vh,Number of Hospitals Same,number_of_hospitals_same
+bs2r-24vh,Number of Hospitals Better,number_of_hospitals_better
+bs2r-24vh,Number of Hospitals Too Few,number_of_hospitals_too_few
+bs2r-24vh,Footnote,footnote
+bs2r-24vh,Start Date,start_date
+bs2r-24vh,End Date,end_date
+y9us-9xdf,Footnote,footnote
+y9us-9xdf,Footnote Text,footnote_text
+xrgf-x36b,Percentile,percentile
+xrgf-x36b,Net Change in Base Operating DRG Payment Amount,net_change_in_base_operating_drg_payment_amount
+5gv4-jwyv,Net Change in Base Operating DRG Payment Amount,net_change_in_base_operating_drg_payment_amount
+5gv4-jwyv,Number of Hospitals Receiving this Range,number_of_hospitals_receiving_this_range
+u625-zae7,% Change in Base Operating DRG Payment Amount,change_in_base_operating_drg_payment_amount
+u625-zae7,Number of Hospitals Receiving this % Change,number_of_hospitals_receiving_this_change
+vtqa-m4zn,Incentive Payment Range,incentive_payment_range
+vtqa-m4zn,Number of Hospitals Receiving this Range,number_of_hospitals_receiving_this_range
+dgck-syfz,Facility ID,facility_id
+dgck-syfz,Facility Name,facility_name
+dgck-syfz,Address,address
+dgck-syfz,City/Town,city_town
+dgck-syfz,State,state
+dgck-syfz,ZIP Code,zip_code
+dgck-syfz,County/Parish,county_parish
+dgck-syfz,Telephone Number,telephone_number
+dgck-syfz,HCAHPS Measure ID,hcahps_measure_id
+dgck-syfz,HCAHPS Question,hcahps_question
+dgck-syfz,HCAHPS Answer Description,hcahps_answer_description
+dgck-syfz,Patient Survey Star Rating,patient_survey_star_rating
+dgck-syfz,Patient Survey Star Rating Footnote,patient_survey_star_rating_footnote
+dgck-syfz,HCAHPS Answer Percent,hcahps_answer_percent
+dgck-syfz,HCAHPS Answer Percent Footnote,hcahps_answer_percent_footnote
+dgck-syfz,HCAHPS Linear Mean Value,hcahps_linear_mean_value
+dgck-syfz,Number of Completed Surveys,number_of_completed_surveys
+dgck-syfz,Number of Completed Surveys Footnote,number_of_completed_surveys_footnote
+dgck-syfz,Survey Response Rate Percent,survey_response_rate_percent
+dgck-syfz,Survey Response Rate Percent Footnote,survey_response_rate_percent_footnote
+dgck-syfz,Start Date,start_date
+dgck-syfz,End Date,end_date
+99ue-w85f,HCAHPS Measure ID,hcahps_measure_id
+99ue-w85f,HCAHPS Question,hcahps_question
+99ue-w85f,HCAHPS Answer Description,hcahps_answer_description
+99ue-w85f,HCAHPS Answer Percent,hcahps_answer_percent
+99ue-w85f,Footnote,footnote
+99ue-w85f,Start Date,start_date
+99ue-w85f,End Date,end_date
+84jm-wiui,State,state
+84jm-wiui,HCAHPS Measure ID,hcahps_measure_id
+84jm-wiui,HCAHPS Question,hcahps_question
+84jm-wiui,HCAHPS Answer Description,hcahps_answer_description
+84jm-wiui,HCAHPS Answer Percent,hcahps_answer_percent
+84jm-wiui,Footnote,footnote
+84jm-wiui,Start Date,start_date
+84jm-wiui,End Date,end_date
+77hc-ibv8,Facility ID,facility_id
+77hc-ibv8,Facility Name,facility_name
+77hc-ibv8,Address,address
+77hc-ibv8,City/Town,city_town
+77hc-ibv8,State,state
+77hc-ibv8,ZIP Code,zip_code
+77hc-ibv8,County/Parish,county_parish
+77hc-ibv8,Telephone Number,telephone_number
+77hc-ibv8,Measure ID,measure_id
+77hc-ibv8,Measure Name,measure_name
+77hc-ibv8,Compared to National,compared_to_national
+77hc-ibv8,Score,score
+77hc-ibv8,Footnote,footnote
+77hc-ibv8,Start Date,start_date
+77hc-ibv8,End Date,end_date
+yd3s-jyhd,Measure ID,measure_id
+yd3s-jyhd,Measure Name,measure_name
+yd3s-jyhd,Score,score
+yd3s-jyhd,Footnote,footnote
+yd3s-jyhd,Start Date,start_date
+yd3s-jyhd,End Date,end_date
+k2ze-bqvw,State,state
+k2ze-bqvw,Measure ID,measure_id
+k2ze-bqvw,Measure Name,measure_name
+k2ze-bqvw,Score,score
+k2ze-bqvw,Footnote,footnote
+k2ze-bqvw,Start Date,start_date
+k2ze-bqvw,End Date,end_date
+yizn-abxn,Facility ID,facility_id
+yizn-abxn,Facility Name,facility_name
+yizn-abxn,Address,address
+yizn-abxn,City/Town,city_town
+yizn-abxn,State,state
+yizn-abxn,ZIP Code,zip_code
+yizn-abxn,County/Parish,county_parish
+yizn-abxn,Telephone Number,telephone_number
+yizn-abxn,OAS CAHPS Measure ID,oas_cahps_measure_id
+yizn-abxn,OAS CAHPS Question,oas_cahps_question
+yizn-abxn,OAS CAHPS Answer Description,oas_cahps_answer_description
+yizn-abxn,OAS CAHPS Answer Percent,oas_cahps_answer_percent
+yizn-abxn,OAS CAHPS Answer Percent Footnote,oas_cahps_answer_percent_footnote
+yizn-abxn,OAS CAHPS Linear Mean Value,oas_cahps_linear_mean_value
+yizn-abxn,Number of Completed Surveys,number_of_completed_surveys
+yizn-abxn,Number of Completed Surveys Footnote,number_of_completed_surveys_footnote
+yizn-abxn,Survey Response Rate Percent,survey_response_rate_percent
+yizn-abxn,Survey Response Rate Percent Footnote,survey_response_rate_percent_footnote
+yizn-abxn,Start Date,start_date
+yizn-abxn,End Date,end_date
+s5pj-hua3,OAS CAHPS Measure ID,oas_cahps_measure_id
+s5pj-hua3,OAS CAHPS Question,oas_cahps_question
+s5pj-hua3,OAS CAHPS Answer Description,oas_cahps_answer_description
+s5pj-hua3,OAS CAHPS Answer Percent,oas_cahps_answer_percent
+s5pj-hua3,OAS CAHPS Answer Percent Footnote,oas_cahps_answer_percent_footnote
+s5pj-hua3,Start Date,start_date
+s5pj-hua3,End Date,end_date
+6pfg-whmx,State,state
+6pfg-whmx,OAS CAHPS Measure ID,oas_cahps_measure_id
+6pfg-whmx,OAS CAHPS Question,oas_cahps_question
+6pfg-whmx,OAS CAHPS Answer Description,oas_cahps_answer_description
+6pfg-whmx,OAS CAHPS Answer Percent,oas_cahps_answer_percent
+6pfg-whmx,OAS CAHPS Answer Percent Footnote,oas_cahps_answer_percent_footnote
+6pfg-whmx,Start Date,start_date
+6pfg-whmx,End Date,end_date
+xubh-q36u,Facility ID,facility_id
+xubh-q36u,Facility Name,facility_name
+xubh-q36u,Address,address
+xubh-q36u,City/Town,city_town
+xubh-q36u,State,state
+xubh-q36u,ZIP Code,zip_code
+xubh-q36u,County/Parish,county_parish
+xubh-q36u,Telephone Number,telephone_number
+xubh-q36u,Hospital Type,hospital_type
+xubh-q36u,Hospital Ownership,hospital_ownership
+xubh-q36u,Emergency Services,emergency_services
+xubh-q36u,Meets criteria for birthing friendly designation,meets_criteria_for_birthing_friendly_designation
+xubh-q36u,Hospital overall rating,hospital_overall_rating
+xubh-q36u,Hospital overall rating footnote,hospital_overall_rating_footnote
+xubh-q36u,MORT Group Measure Count,mort_group_measure_count
+xubh-q36u,Count of Facility MORT Measures,count_of_facility_mort_measures
+xubh-q36u,Count of MORT Measures Better,count_of_mort_measures_better
+xubh-q36u,Count of MORT Measures No Different,count_of_mort_measures_no_different
+xubh-q36u,Count of MORT Measures Worse,count_of_mort_measures_worse
+xubh-q36u,MORT Group Footnote,mort_group_footnote
+xubh-q36u,Safety Group Measure Count,safety_group_measure_count
+xubh-q36u,Count of Facility Safety Measures,count_of_facility_safety_measures
+xubh-q36u,Count of Safety Measures Better,count_of_safety_measures_better
+xubh-q36u,Count of Safety Measures No Different,count_of_safety_measures_no_different
+xubh-q36u,Count of Safety Measures Worse,count_of_safety_measures_worse
+xubh-q36u,Safety Group Footnote,safety_group_footnote
+xubh-q36u,READM Group Measure Count,readm_group_measure_count
+xubh-q36u,Count of Facility READM Measures,count_of_facility_readm_measures
+xubh-q36u,Count of READM Measures Better,count_of_readm_measures_better
+xubh-q36u,Count of READM Measures No Different,count_of_readm_measures_no_different
+xubh-q36u,Count of READM Measures Worse,count_of_readm_measures_worse
+xubh-q36u,READM Group Footnote,readm_group_footnote
+xubh-q36u,Pt Exp Group Measure Count,pt_exp_group_measure_count
+xubh-q36u,Count of Facility Pt Exp Measures,count_of_facility_pt_exp_measures
+xubh-q36u,Pt Exp Group Footnote,pt_exp_group_footnote
+xubh-q36u,TE Group Measure Count,te_group_measure_count
+xubh-q36u,Count of Facility TE Measures,count_of_facility_te_measures
+xubh-q36u,TE Group Footnote,te_group_footnote
+z8ax-x9j1,Facility ID,facility_id
+z8ax-x9j1,Facility Name,facility_name
+z8ax-x9j1,Hospital Type,hospital_type
+z8ax-x9j1,Address,address
+z8ax-x9j1,City/Town,city_town
+z8ax-x9j1,State,state
+z8ax-x9j1,ZIP Code,zip_code
+z8ax-x9j1,County/Parish,county_parish
+z8ax-x9j1,Measure ID,measure_id
+z8ax-x9j1,Measure Description,measure_description
+z8ax-x9j1,Total Cases,total_cases
+z8ax-x9j1,Performance Category,performance_category
+z8ax-x9j1,Rate,rate
+z8ax-x9j1,Interval Lower Limit,interval_lower_limit
+z8ax-x9j1,Interval Upper Limit,interval_upper_limit
+z8ax-x9j1,Footnote,footnote
+z8ax-x9j1,Start Date,start_date
+z8ax-x9j1,End Date,end_date
+jfnd-nl7s,Measure ID,measure_id
+jfnd-nl7s,Measure Description,measure_description
+jfnd-nl7s,National Rate,national_rate
+jfnd-nl7s,Better,better
+jfnd-nl7s,No Different,no_different
+jfnd-nl7s,Worse,worse
+jfnd-nl7s,Too Small,too_small
+jfnd-nl7s,Start Date,start_date
+jfnd-nl7s,End Date,end_date
+yq43-i98g,Facility Name,facility_name
+yq43-i98g,Facility ID,facility_id
+yq43-i98g,State,state
+yq43-i98g,Fiscal Year,fiscal_year
+yq43-i98g,PSI 90 Composite Value,psi_90_composite_value
+yq43-i98g,PSI 90 Composite Value Footnote,psi_90_composite_value_footnote
+yq43-i98g,PSI 90 W Z Score,psi_90_w_z_score
+yq43-i98g,PSI 90 W Z Footnote,psi_90_w_z_footnote
+yq43-i98g,PSI 90 Start Date,psi_90_start_date
+yq43-i98g,PSI 90 End Date,psi_90_end_date
+yq43-i98g,CLABSI SIR,clabsi_sir
+yq43-i98g,CLABSI SIR Footnote,clabsi_sir_footnote
+yq43-i98g,CLABSI W Z Score,clabsi_w_z_score
+yq43-i98g,CLABSI W Z Footnote,clabsi_w_z_footnote
+yq43-i98g,CAUTI SIR,cauti_sir
+yq43-i98g,CAUTI SIR Footnote,cauti_sir_footnote
+yq43-i98g,CAUTI W Z Score,cauti_w_z_score
+yq43-i98g,CAUTI W Z Footnote,cauti_w_z_footnote
+yq43-i98g,SSI SIR,ssi_sir
+yq43-i98g,SSI SIR Footnote,ssi_sir_footnote
+yq43-i98g,SSI W Z Score,ssi_w_z_score
+yq43-i98g,SSI W Z Footnote,ssi_w_z_footnote
+yq43-i98g,CDI SIR,cdi_sir
+yq43-i98g,CDI SIR Footnote,cdi_sir_footnote
+yq43-i98g,CDI W Z Score,cdi_w_z_score
+yq43-i98g,CDI W Z Footnote,cdi_w_z_footnote
+yq43-i98g,MRSA SIR,mrsa_sir
+yq43-i98g,MRSA SIR Footnote,mrsa_sir_footnote
+yq43-i98g,MRSA W Z Score,mrsa_w_z_score
+yq43-i98g,MRSA W Z Footnote,mrsa_w_z_footnote
+yq43-i98g,HAI Measures Start Date,hai_measures_start_date
+yq43-i98g,HAI Measures End Date,hai_measures_end_date
+yq43-i98g,Total HAC Score,total_hac_score
+yq43-i98g,Total HAC Score Footnote,total_hac_score_footnote
+yq43-i98g,Payment Reduction,payment_reduction
+yq43-i98g,Payment Reduction Footnote,payment_reduction_footnote
+5hk7-b79m,Facility ID,facility_id
+5hk7-b79m,Measure ID,measure_id
+5hk7-b79m,Value,value
+5hk7-b79m,Footnote,footnote
+5hk7-b79m,Start Date,start_date
+5hk7-b79m,End Date,end_date
+k653-4ka8,Facility ID,facility_id
+k653-4ka8,Facility Name,facility_name
+k653-4ka8,Hospital Type,hospital_type
+k653-4ka8,Address,address
+k653-4ka8,City/Town,city_town
+k653-4ka8,State,state
+k653-4ka8,ZIP Code,zip_code
+k653-4ka8,County/Parish,county_parish
+k653-4ka8,Measure ID,measure_id
+k653-4ka8,Measure Name,measure_name
+k653-4ka8,Score,score
+k653-4ka8,Footnote,footnote
+k653-4ka8,Start Date,start_date
+k653-4ka8,End Date,end_date
+iy27-wz37,Facility ID,facility_id
+iy27-wz37,Facility Name,facility_name
+iy27-wz37,Address,address
+iy27-wz37,City/Town,city_town
+iy27-wz37,State,state
+iy27-wz37,ZIP Code,zip_code
+iy27-wz37,County/Parish,county_parish
+iy27-wz37,Telephone Number,telephone_number
+iy27-wz37,HCAHPS Measure ID,hcahps_measure_id
+iy27-wz37,HCAHPS Question,hcahps_question
+iy27-wz37,HCAHPS Answer Description,hcahps_answer_description
+iy27-wz37,Patient Survey Star Rating,patient_survey_star_rating
+iy27-wz37,Patient Survey Star Rating Footnote,patient_survey_star_rating_footnote
+iy27-wz37,HCAHPS Answer Percent,hcahps_answer_percent
+iy27-wz37,HCAHPS Answer Percent Footnote,hcahps_answer_percent_footnote
+iy27-wz37,HCAHPS Linear Mean Value,hcahps_linear_mean_value
+iy27-wz37,Number of Completed Surveys,number_of_completed_surveys
+iy27-wz37,Number of Completed Surveys Footnote,number_of_completed_surveys_footnote
+iy27-wz37,Survey Response Rate Percent,survey_response_rate_percent
+iy27-wz37,Survey Response Rate Percent Footnote,survey_response_rate_percent_footnote
+iy27-wz37,Start Date,start_date
+iy27-wz37,End Date,end_date
+9g7e-btyt,Measure ID,measure_id
+9g7e-btyt,HCAHPS Question,hcahps_question
+9g7e-btyt,HCAHPS Answer Description,hcahps_answer_description
+9g7e-btyt,HCAHPS Answer Percent,hcahps_answer_percent
+9g7e-btyt,Start Date,start_date
+9g7e-btyt,End Date,end_date
+qatj-nmws,State,state
+qatj-nmws,Measure ID,measure_id
+qatj-nmws,HCAHPS Question,hcahps_question
+qatj-nmws,HCAHPS Answer Description,hcahps_answer_description
+qatj-nmws,HCAHPS Answer Percent,hcahps_answer_percent
+qatj-nmws,Start Date,start_date
+qatj-nmws,End Date,end_date
+9n3s-kdb3,Facility Name,facility_name
+9n3s-kdb3,Facility ID,facility_id
+9n3s-kdb3,State,state
+9n3s-kdb3,Measure Name,measure_name
+9n3s-kdb3,Number of Discharges,number_of_discharges
+9n3s-kdb3,Footnote,footnote
+9n3s-kdb3,Excess Readmission Ratio,excess_readmission_ratio
+9n3s-kdb3,Predicted Readmission Rate,predicted_readmission_rate
+9n3s-kdb3,Expected Readmission Rate,expected_readmission_rate
+9n3s-kdb3,Number of Readmissions,number_of_readmissions
+9n3s-kdb3,Start Date,start_date
+9n3s-kdb3,End Date,end_date
+pudb-wetr,Fiscal Year,fiscal_year
+pudb-wetr,Facility ID,facility_id
+pudb-wetr,Facility Name,facility_name
+pudb-wetr,Address,address
+pudb-wetr,City/Town,city_town
+pudb-wetr,State,state
+pudb-wetr,ZIP Code,zip_code
+pudb-wetr,County/Parish,county_parish
+pudb-wetr,MORT-30-AMI Achievement Threshold,mort_30_ami_achievement_threshold
+pudb-wetr,MORT-30-AMI Benchmark,mort_30_ami_benchmark
+pudb-wetr,MORT-30-AMI Baseline Rate,mort_30_ami_baseline_rate
+pudb-wetr,MORT-30-AMI Performance Rate,mort_30_ami_performance_rate
+pudb-wetr,MORT-30-AMI Achievement Points,mort_30_ami_achievement_points
+pudb-wetr,MORT-30-AMI Improvement Points,mort_30_ami_improvement_points
+pudb-wetr,MORT-30-AMI Measure Score,mort_30_ami_measure_score
+pudb-wetr,MORT-30-HF Achievement Threshold,mort_30_hf_achievement_threshold
+pudb-wetr,MORT-30-HF Benchmark,mort_30_hf_benchmark
+pudb-wetr,MORT-30-HF Baseline Rate,mort_30_hf_baseline_rate
+pudb-wetr,MORT-30-HF Performance Rate,mort_30_hf_performance_rate
+pudb-wetr,MORT-30-HF Achievement Points,mort_30_hf_achievement_points
+pudb-wetr,MORT-30-HF Improvement Points,mort_30_hf_improvement_points
+pudb-wetr,MORT-30-HF Measure Score,mort_30_hf_measure_score
+pudb-wetr,MORT-30-PN Achievement Threshold,mort_30_pn_achievement_threshold
+pudb-wetr,MORT-30-PN Benchmark,mort_30_pn_benchmark
+pudb-wetr,MORT-30-PN Baseline Rate,mort_30_pn_baseline_rate
+pudb-wetr,MORT-30-PN Performance Rate,mort_30_pn_performance_rate
+pudb-wetr,MORT-30-PN Achievement Points,mort_30_pn_achievement_points
+pudb-wetr,MORT-30-PN Improvement Points,mort_30_pn_improvement_points
+pudb-wetr,MORT-30-PN Measure Score,mort_30_pn_measure_score
+pudb-wetr,MORT-30-COPD Achievement Threshold,mort_30_copd_achievement_threshold
+pudb-wetr,MORT-30-COPD Benchmark,mort_30_copd_benchmark
+pudb-wetr,MORT-30-COPD Baseline Rate,mort_30_copd_baseline_rate
+pudb-wetr,MORT-30-COPD Performance Rate,mort_30_copd_performance_rate
+pudb-wetr,MORT-30-COPD Achievement Points,mort_30_copd_achievement_points
+pudb-wetr,MORT-30-COPD Improvement Points,mort_30_copd_improvement_points
+pudb-wetr,MORT-30-COPD Measure Score,mort_30_copd_measure_score
+pudb-wetr,MORT-30-CABG Achievement Threshold,mort_30_cabg_achievement_threshold
+pudb-wetr,MORT-30-CABG Benchmark,mort_30_cabg_benchmark
+pudb-wetr,MORT-30-CABG Baseline Rate,mort_30_cabg_baseline_rate
+pudb-wetr,MORT-30-CABG Performance Rate,mort_30_cabg_performance_rate
+pudb-wetr,MORT-30-CABG Achievement Points,mort_30_cabg_achievement_points
+pudb-wetr,MORT-30-CABG Improvement Points,mort_30_cabg_improvement_points
+pudb-wetr,MORT-30-CABG Measure Score,mort_30_cabg_measure_score
+pudb-wetr,COMP-HIP-KNEE Achievement Threshold,comp_hip_knee_achievement_threshold
+pudb-wetr,COMP-HIP-KNEE Benchmark,comp_hip_knee_benchmark
+pudb-wetr,COMP-HIP-KNEE Baseline Rate,comp_hip_knee_baseline_rate
+pudb-wetr,COMP-HIP-KNEE Performance Rate,comp_hip_knee_performance_rate
+pudb-wetr,COMP-HIP-KNEE Achievement Points,comp_hip_knee_achievement_points
+pudb-wetr,COMP-HIP-KNEE Improvement Points,comp_hip_knee_improvement_points
+pudb-wetr,COMP-HIP-KNEE Measure Score,comp_hip_knee_measure_score
+su9h-3pvj,Fiscal Year,fiscal_year
+su9h-3pvj,Facility ID,facility_id
+su9h-3pvj,Facility Name,facility_name
+su9h-3pvj,Address,address
+su9h-3pvj,City/Town,city_town
+su9h-3pvj,State,state
+su9h-3pvj,ZIP Code,zip_code
+su9h-3pvj,County/Parish,county_parish
+su9h-3pvj,MSPB-1 Achievement Threshold,mspb_1_achievement_threshold
+su9h-3pvj,MSPB-1 Benchmark,mspb_1_benchmark
+su9h-3pvj,MSPB-1 Baseline Rate,mspb_1_baseline_rate
+su9h-3pvj,MSPB-1 Performance Rate,mspb_1_performance_rate
+su9h-3pvj,MSPB-1 Achievement Points,mspb_1_achievement_points
+su9h-3pvj,MSPB-1 Improvement Points,mspb_1_improvement_points
+su9h-3pvj,MSPB-1 Measure Score,mspb_1_measure_score
+avtz-f2ge,Fiscal Year,fiscal_year
+avtz-f2ge,Facility ID,facility_id
+avtz-f2ge,Facility Name,facility_name
+avtz-f2ge,Address,address
+avtz-f2ge,City/Town,city_town
+avtz-f2ge,State,state
+avtz-f2ge,ZIP Code,zip_code
+avtz-f2ge,County/Parish,county_parish
+avtz-f2ge,Communication With Nurses Floor,communication_with_nurses_floor
+avtz-f2ge,Communication With Nurses Achievement Threshold,communication_with_nurses_achievement_threshold
+avtz-f2ge,Communication With Nurses Benchmark,communication_with_nurses_benchmark
+avtz-f2ge,Communication With Nurses Baseline Rate,communication_with_nurses_baseline_rate
+avtz-f2ge,Communication With Nurses Performance Rate,communication_with_nurses_performance_rate
+avtz-f2ge,Communication With Nurses Achievement Points,communication_with_nurses_achievement_points
+avtz-f2ge,Communication With Nurses Improvement Points,communication_with_nurses_improvement_points
+avtz-f2ge,Communication With Nurses Dimension Score,communication_with_nurses_dimension_score
+avtz-f2ge,Communication With Doctors Floor,communication_with_doctors_floor
+avtz-f2ge,Communication With Doctors Achievement Threshold,communication_with_doctors_achievement_threshold
+avtz-f2ge,Communication With Doctors Benchmark,communication_with_doctors_benchmark
+avtz-f2ge,Communication With Doctors Baseline Rate,communication_with_doctors_baseline_rate
+avtz-f2ge,Communication With Doctors Performance Rate,communication_with_doctors_performance_rate
+avtz-f2ge,Communication With Doctors Achievement Points,communication_with_doctors_achievement_points
+avtz-f2ge,Communication With Doctors Improvement Points,communication_with_doctors_improvement_points
+avtz-f2ge,Communication With Doctors Dimension Score,communication_with_doctors_dimension_score
+avtz-f2ge,Responsiveness Of Hospital Staff Floor,responsiveness_of_hospital_staff_floor
+avtz-f2ge,Responsiveness Of Hospital Staff Achievement Threshold,responsiveness_of_hospital_staff_achievement_threshold
+avtz-f2ge,Responsiveness Of Hospital Staff Benchmark,responsiveness_of_hospital_staff_benchmark
+avtz-f2ge,Responsiveness Of Hospital Staff Baseline Rate,responsiveness_of_hospital_staff_baseline_rate
+avtz-f2ge,Responsiveness Of Hospital Staff Performance Rate,responsiveness_of_hospital_staff_performance_rate
+avtz-f2ge,Responsiveness Of Hospital Staff Achievement Points,responsiveness_of_hospital_staff_achievement_points
+avtz-f2ge,Responsiveness Of Hospital Staff Improvement Points,responsiveness_of_hospital_staff_improvement_points
+avtz-f2ge,Responsiveness Of Hospital Staff Dimension Score,responsiveness_of_hospital_staff_dimension_score
+avtz-f2ge,Care Transition Floor,care_transition_floor
+avtz-f2ge,Care Transition Achievement Threshold,care_transition_achievement_threshold
+avtz-f2ge,Care Transition Benchmark,care_transition_benchmark
+avtz-f2ge,Care Transition Baseline Rate,care_transition_baseline_rate
+avtz-f2ge,Care Transition Performance Rate,care_transition_performance_rate
+avtz-f2ge,Care Transition Achievement Points,care_transition_achievement_points
+avtz-f2ge,Care Transition Improvement Points,care_transition_improvement_points
+avtz-f2ge,Care Transition Dimension Score,care_transition_dimension_score
+avtz-f2ge,Communication About Medicines Floor,communication_about_medicines_floor
+avtz-f2ge,Communication About Medicines Achievement Threshold,communication_about_medicines_achievement_threshold
+avtz-f2ge,Communication About Medicines Benchmark,communication_about_medicines_benchmark
+avtz-f2ge,Communication About Medicines Baseline Rate,communication_about_medicines_baseline_rate
+avtz-f2ge,Communication About Medicines Performance Rate,communication_about_medicines_performance_rate
+avtz-f2ge,Communication About Medicines Achievement Points,communication_about_medicines_achievement_points
+avtz-f2ge,Communication About Medicines Improvement Points,communication_about_medicines_improvement_points
+avtz-f2ge,Communication About Medicines Dimension Score,communication_about_medicines_dimension_score
+avtz-f2ge,Cleanliness And Quietness Of Hospital Environment Floor,cleanliness_and_quietness_of_hospital_environment_floor
+avtz-f2ge,Cleanliness And Quietness Of Hospital Environment Achievement Threshold,cleanliness_and_quietness_of_hospital_environment_achievement_threshold
+avtz-f2ge,Cleanliness And Quietness Of Hospital Environment Benchmark,cleanliness_and_quietness_of_hospital_environment_benchmark
+avtz-f2ge,Cleanliness And Quietness Of Hospital Environment Baseline Rate,cleanliness_and_quietness_of_hospital_environment_baseline_rate
+avtz-f2ge,Cleanliness And Quietness Of Hospital Environment Performance Rate,cleanliness_and_quietness_of_hospital_environment_performance_rate
+avtz-f2ge,Cleanliness And Quietness Of Hospital Environment Achievement Points,cleanliness_and_quietness_of_hospital_environment_achievement_points
+avtz-f2ge,Cleanliness And Quietness Of Hospital Environment Improvement Points,cleanliness_and_quietness_of_hospital_environment_improvement_points
+avtz-f2ge,Cleanliness And Quietness Of Hospital Environment Dimension Score,cleanliness_and_quietness_of_hospital_environment_dimension_score
+avtz-f2ge,Discharge Information Floor,discharge_information_floor
+avtz-f2ge,Discharge Information Achievement Threshold,discharge_information_achievement_threshold
+avtz-f2ge,Discharge Information Benchmark,discharge_information_benchmark
+avtz-f2ge,Discharge Information Baseline Rate,discharge_information_baseline_rate
+avtz-f2ge,Discharge Information Performance Rate,discharge_information_performance_rate
+avtz-f2ge,Discharge Information Achievement Points,discharge_information_achievement_points
+avtz-f2ge,Discharge Information Improvement Points,discharge_information_improvement_points
+avtz-f2ge,Discharge Information Dimension Score,discharge_information_dimension_score
+avtz-f2ge,Overall Rating Of Hospital Floor,overall_rating_of_hospital_floor
+avtz-f2ge,Overall Rating Of Hospital Achievement Threshold,overall_rating_of_hospital_achievement_threshold
+avtz-f2ge,Overall Rating Of Hospital Benchmark,overall_rating_of_hospital_benchmark
+avtz-f2ge,Overall Rating Of Hospital Baseline Rate,overall_rating_of_hospital_baseline_rate
+avtz-f2ge,Overall Rating Of Hospital Performance Rate,overall_rating_of_hospital_performance_rate
+avtz-f2ge,Overall Rating Of Hospital Achievement Points,overall_rating_of_hospital_achievement_points
+avtz-f2ge,Overall Rating Of Hospital Improvement Points,overall_rating_of_hospital_improvement_points
+avtz-f2ge,Overall Rating Of Hospital Dimension Score,overall_rating_of_hospital_dimension_score
+avtz-f2ge,Hcahps Base Score,hcahps_base_score
+avtz-f2ge,Hcahps Consistency Score,hcahps_consistency_score
+dgmq-aat3,Fiscal Year,fiscal_year
+dgmq-aat3,Facility ID,facility_id
+dgmq-aat3,Facility Name,facility_name
+dgmq-aat3,Address,address
+dgmq-aat3,City/Town,city_town
+dgmq-aat3,State,state
+dgmq-aat3,ZIP Code,zip_code
+dgmq-aat3,County/Parish,county_parish
+dgmq-aat3,HAI-1 Achievement Threshold,hai_1_achievement_threshold
+dgmq-aat3,HAI-1 Benchmark,hai_1_benchmark
+dgmq-aat3,HAI-1 Baseline Rate,hai_1_baseline_rate
+dgmq-aat3,HAI-1 Performance Rate,hai_1_performance_rate
+dgmq-aat3,HAI-1 Achievement Points,hai_1_achievement_points
+dgmq-aat3,HAI-1 Improvement Points,hai_1_improvement_points
+dgmq-aat3,HAI-1 Measure Score,hai_1_measure_score
+dgmq-aat3,HAI-2 Achievement Threshold,hai_2_achievement_threshold
+dgmq-aat3,HAI-2 Benchmark,hai_2_benchmark
+dgmq-aat3,HAI-2 Baseline Rate,hai_2_baseline_rate
+dgmq-aat3,HAI-2 Performance Rate,hai_2_performance_rate
+dgmq-aat3,HAI-2 Achievement Points,hai_2_achievement_points
+dgmq-aat3,HAI-2 Improvement Points,hai_2_improvement_points
+dgmq-aat3,HAI-2 Measure Score,hai_2_measure_score
+dgmq-aat3,Combined SSI Measure Score,combined_ssi_measure_score
+dgmq-aat3,HAI-3 Achievement Threshold,hai_3_achievement_threshold
+dgmq-aat3,HAI-3 Benchmark,hai_3_benchmark
+dgmq-aat3,HAI-3 Baseline Rate,hai_3_baseline_rate
+dgmq-aat3,HAI-3 Performance Rate,hai_3_performance_rate
+dgmq-aat3,HAI-3 Achievement Points,hai_3_achievement_points
+dgmq-aat3,HAI-3 Improvement Points,hai_3_improvement_points
+dgmq-aat3,HAI-3 Measure Score,hai_3_measure_score
+dgmq-aat3,HAI-4 Achievement Threshold,hai_4_achievement_threshold
+dgmq-aat3,HAI-4 Benchmark,hai_4_benchmark
+dgmq-aat3,HAI-4 Baseline Rate,hai_4_baseline_rate
+dgmq-aat3,HAI-4 Performance Rate,hai_4_performance_rate
+dgmq-aat3,HAI-4 Achievement Points,hai_4_achievement_points
+dgmq-aat3,HAI-4 Improvement Points,hai_4_improvement_points
+dgmq-aat3,HAI-4 Measure Score,hai_4_measure_score
+dgmq-aat3,HAI-5 Achievement Threshold,hai_5_achievement_threshold
+dgmq-aat3,HAI-5 Benchmark,hai_5_benchmark
+dgmq-aat3,HAI-5 Baseline Rate,hai_5_baseline_rate
+dgmq-aat3,HAI-5 Performance Rate,hai_5_performance_rate
+dgmq-aat3,HAI-5 Achievement Points,hai_5_achievement_points
+dgmq-aat3,HAI-5 Improvement Points,hai_5_improvement_points
+dgmq-aat3,HAI-5 Measure Score,hai_5_measure_score
+dgmq-aat3,HAI-6 Achievement Threshold,hai_6_achievement_threshold
+dgmq-aat3,HAI-6 Benchmark,hai_6_benchmark
+dgmq-aat3,HAI-6 Baseline Rate,hai_6_baseline_rate
+dgmq-aat3,HAI-6 Performance Rate,hai_6_performance_rate
+dgmq-aat3,HAI-6 Achievement Points,hai_6_achievement_points
+dgmq-aat3,HAI-6 Improvement Points,hai_6_improvement_points
+dgmq-aat3,HAI-6 Measure Score,hai_6_measure_score
+dgmq-aat3,SEP-1 Achievement Threshold,sep_1_achievement_threshold
+dgmq-aat3,SEP-1 Benchmark,sep_1_benchmark
+dgmq-aat3,SEP-1 Baseline Rate,sep_1_baseline_rate
+dgmq-aat3,SEP-1 Performance Rate,sep_1_performance_rate
+dgmq-aat3,SEP-1 Achievement Points,sep_1_achievement_points
+dgmq-aat3,SEP-1 Improvement Points,sep_1_improvement_points
+dgmq-aat3,SEP-1 Measure Score,sep_1_measure_score
+ypbt-wvdk,Fiscal Year,fiscal_year
+ypbt-wvdk,Facility ID,facility_id
+ypbt-wvdk,Facility Name,facility_name
+ypbt-wvdk,Address,address
+ypbt-wvdk,City/Town,city_town
+ypbt-wvdk,State,state
+ypbt-wvdk,ZIP Code,zip_code
+ypbt-wvdk,County/Parish,county_parish
+ypbt-wvdk,Unweighted Normalized Clinical Outcomes Domain Score,unweighted_normalized_clinical_outcomes_domain_score
+ypbt-wvdk,Weighted Normalized Clinical Outcomes Domain Score,weighted_normalized_clinical_outcomes_domain_score
+ypbt-wvdk,Unweighted Person And Community Engagement Domain Score,unweighted_person_and_community_engagement_domain_score
+ypbt-wvdk,Weighted Person And Community Engagement Domain Score,weighted_person_and_community_engagement_domain_score
+ypbt-wvdk,Unweighted Normalized Safety Domain Score,unweighted_normalized_safety_domain_score
+ypbt-wvdk,Weighted Safety Domain Score,weighted_safety_domain_score
+ypbt-wvdk,Unweighted Normalized Efficiency And Cost Reduction Domain Score,unweighted_normalized_efficiency_and_cost_reduction_domain_score
+ypbt-wvdk,Weighted Efficiency And Cost Reduction Domain Score,weighted_efficiency_and_cost_reduction_domain_score
+ypbt-wvdk,Total Performance Score,total_performance_score
+q9vs-r7wp,Facility ID,facility_id
+q9vs-r7wp,Facility Name,facility_name
+q9vs-r7wp,Address,address
+q9vs-r7wp,City/Town,city_town
+q9vs-r7wp,State,state
+q9vs-r7wp,ZIP Code,zip_code
+q9vs-r7wp,County/Parish,county_parish
+q9vs-r7wp,HBIPS-2 Measure Description,hbips_2_measure_description
+q9vs-r7wp,HBIPS-2 Overall Rate Per 1000,hbips_2_overall_rate_per_1000
+q9vs-r7wp,HBIPS-2 Overall Num,hbips_2_overall_num
+q9vs-r7wp,HBIPS-2 Overall Den,hbips_2_overall_den
+q9vs-r7wp,HBIPS-2 Overall Footnote,hbips_2_overall_footnote
+q9vs-r7wp,HBIPS-3 Measure Description,hbips_3_measure_description
+q9vs-r7wp,HBIPS-3 Overall Rate Per 1000,hbips_3_overall_rate_per_1000
+q9vs-r7wp,HBIPS-3 Overall Num,hbips_3_overall_num
+q9vs-r7wp,HBIPS-3 Overall Den,hbips_3_overall_den
+q9vs-r7wp,HBIPS-3 Overall Footnote,hbips_3_overall_footnote
+q9vs-r7wp,SMD Measure Description,smd_measure_description
+q9vs-r7wp,SMD %,smd
+q9vs-r7wp,SMD Denominator,smd_denominator
+q9vs-r7wp,SMD Footnote,smd_footnote
+q9vs-r7wp,SUB-2/-2a Measure Description,sub_2_2a_measure_description
+q9vs-r7wp,SUB-2 %,sub_2
+q9vs-r7wp,SUB-2 Denominator,sub_2_denominator
+q9vs-r7wp,SUB-2 Footnote,sub_2_footnote
+q9vs-r7wp,SUB-2a %,sub_2a
+q9vs-r7wp,SUB-2a Denominator,sub_2a_denominator
+q9vs-r7wp,SUB-2a Footnote,sub_2a_footnote
+q9vs-r7wp,SUB-3/-3a Measure Description,sub_3_3a_measure_description
+q9vs-r7wp,SUB-3 %,sub_3
+q9vs-r7wp,SUB-3 Denominator,sub_3_denominator
+q9vs-r7wp,SUB-3 Footnote,sub_3_footnote
+q9vs-r7wp,SUB-3a %,sub_3a
+q9vs-r7wp,SUB-3a Denominator,sub_3a_denominator
+q9vs-r7wp,SUB-3a Footnote,sub_3a_footnote
+q9vs-r7wp,TOB-3/-3a Measure Description,tob_3_3a_measure_description
+q9vs-r7wp,TOB-3 %,tob_3
+q9vs-r7wp,TOB-3 Denominator,tob_3_denominator
+q9vs-r7wp,TOB-3 Footnote,tob_3_footnote
+q9vs-r7wp,TOB-3a %,tob_3a
+q9vs-r7wp,TOB-3a Denominator,tob_3a_denominator
+q9vs-r7wp,TOB-3a Footnote,tob_3a_footnote
+q9vs-r7wp,TR-1 Measure Description,tr_1_measure_description
+q9vs-r7wp,TR-1 %,tr_1
+q9vs-r7wp,TR-1 Denominator,tr_1_denominator
+q9vs-r7wp,TR-1 Footnote,tr_1_footnote
+q9vs-r7wp,Start Date,start_date
+q9vs-r7wp,End Date,end_date
+q9vs-r7wp,FAPH Measure Description,faph_measure_description
+q9vs-r7wp,FAPH-30 %,faph_30
+q9vs-r7wp,FAPH-30 Denominator,faph_30_denominator
+q9vs-r7wp,FAPH-30 Footnote,faph_30_footnote
+q9vs-r7wp,FAPH-7 %,faph_7
+q9vs-r7wp,FAPH-7 Denominator,faph_7_denominator
+q9vs-r7wp,FAPH-7 Footnote,faph_7_footnote
+q9vs-r7wp,FAPH Measure Start Date,faph_measure_start_date
+q9vs-r7wp,FAPH Measure End Date,faph_measure_end_date
+q9vs-r7wp,MedCont Measure Desc,med_cont_measure_desc
+q9vs-r7wp,MedCont %,med_cont
+q9vs-r7wp,MedCont Denominator,med_cont_denominator
+q9vs-r7wp,MedCont Footnote,med_cont_footnote
+q9vs-r7wp,MedCont Measure Start Date,med_cont_measure_start_date
+q9vs-r7wp,MedCont Measure End Date,med_cont_measure_end_date
+q9vs-r7wp,READM-30-IPF Measure Desc,readm_30_ipf_measure_desc
+q9vs-r7wp,READM-30-IPF Category,readm_30_ipf_category
+q9vs-r7wp,READM-30-IPF Denominator,readm_30_ipf_denominator
+q9vs-r7wp,READM-30-IPF Rate,readm_30_ipf_rate
+q9vs-r7wp,READM-30-IPF Lower Estimate,readm_30_ipf_lower_estimate
+q9vs-r7wp,READM-30-IPF Higher Estimate,readm_30_ipf_higher_estimate
+q9vs-r7wp,READM-30-IPF Footnote,readm_30_ipf_footnote
+q9vs-r7wp,READM-30-IPF Start Date,readm_30_ipf_start_date
+q9vs-r7wp,READM-30-IPF End Date,readm_30_ipf_end_date
+q9vs-r7wp,IMM-2 Measure Description,imm_2_measure_description
+q9vs-r7wp,IMM-2 %,imm_2
+q9vs-r7wp,IMM-2 Denominator,imm_2_denominator
+q9vs-r7wp,IMM-2 Footnote,imm_2_footnote
+q9vs-r7wp,Flu Season Start Date,flu_season_start_date
+q9vs-r7wp,Flu Season End Date,flu_season_end_date
+s5xg-sys6,HBIPS-2 Measure Description,hbips_2_measure_description
+s5xg-sys6,N HBIPS-2 Overall Rate Per 1000,n_hbips_2_overall_rate_per_1000
+s5xg-sys6,N HBIPS-2 Overall Num,n_hbips_2_overall_num
+s5xg-sys6,N HBIPS-2 Overall Den,n_hbips_2_overall_den
+s5xg-sys6,HBIPS-3 Measure Description,hbips_3_measure_description
+s5xg-sys6,N HBIPS-3 Overall Rate Per 1000,n_hbips_3_overall_rate_per_1000
+s5xg-sys6,N HBIPS-3 Overall Num,n_hbips_3_overall_num
+s5xg-sys6,N HBIPS-3 Overall Den,n_hbips_3_overall_den
+s5xg-sys6,SMD Measure Description,smd_measure_description
+s5xg-sys6,N SMD %,n_smd
+s5xg-sys6,SMD Top 10%,smd_top_10
+s5xg-sys6,SUB-2/-2a Measure Description,sub_2_2a_measure_description
+s5xg-sys6,N SUB-2 %,n_sub_2
+s5xg-sys6,SUB-2 Top 10%,sub_2_top_10
+s5xg-sys6,N SUB-2a %,n_sub_2a
+s5xg-sys6,SUB-2a Top 10%,sub_2a_top_10
+s5xg-sys6,SUB-3/-3a Measure Description,sub_3_3a_measure_description
+s5xg-sys6,N SUB-3 %,n_sub_3
+s5xg-sys6,SUB-3 Top 10%,sub_3_top_10
+s5xg-sys6,N SUB-3a %,n_sub_3a
+s5xg-sys6,SUB-3a Top 10%,sub_3a_top_10
+s5xg-sys6,TOB-3/-3a Measure Description,tob_3_3a_measure_description
+s5xg-sys6,N TOB-3 %,n_tob_3
+s5xg-sys6,TOB-3 Top 10%,tob_3_top_10
+s5xg-sys6,N TOB-3a %,n_tob_3a
+s5xg-sys6,TOB-3a Top 10%,tob_3a_top_10
+s5xg-sys6,TR-1 Measure Description,tr_1_measure_description
+s5xg-sys6,N TR-1 %,n_tr_1
+s5xg-sys6,TR-1 Top 10%,tr_1_top_10
+s5xg-sys6,Start Date,start_date
+s5xg-sys6,End Date,end_date
+s5xg-sys6,FAPH Measure Description,faph_measure_description
+s5xg-sys6,N FAPH-30 %,n_faph_30
+s5xg-sys6,FAPH-30 Top 10%,faph_30_top_10
+s5xg-sys6,N FAPH-7 %,n_faph_7
+s5xg-sys6,FAPH-7 Top 10%,faph_7_top_10
+s5xg-sys6,FAPH Measure Start Date,faph_measure_start_date
+s5xg-sys6,FAPH Measure End Date,faph_measure_end_date
+s5xg-sys6,MedCont Measure Description,med_cont_measure_description
+s5xg-sys6,MedCont %,med_cont
+s5xg-sys6,MedCont Top 10%,med_cont_top_10
+s5xg-sys6,N MedCont Measure Start Date,n_med_cont_measure_start_date
+s5xg-sys6,N MedCont Measure End Date,n_med_cont_measure_end_date
+s5xg-sys6,READM-30-IPF Measure Desc,readm_30_ipf_measure_desc
+s5xg-sys6,READM-30-IPF National Rate,readm_30_ipf_national_rate
+s5xg-sys6,N READM-30-IPF # IPFs Worse,n_readm_30_ipf_ipfs_worse
+s5xg-sys6,N READM-30-IPF # IPFs Same,n_readm_30_ipf_ipfs_same
+s5xg-sys6,N READM-30-IPF # IPFs Better,n_readm_30_ipf_ipfs_better
+s5xg-sys6,N READM-30-IPF # IPFs Too Few,n_readm_30_ipf_ipfs_too_few
+s5xg-sys6,READM-30-IPF Start Date,readm_30_ipf_start_date
+s5xg-sys6,READM-30-IPF End Date,readm_30_ipf_end_date
+s5xg-sys6,IMM-2 Measure Description,imm_2_measure_description
+s5xg-sys6,N IMM-2 %,n_imm_2
+s5xg-sys6,IMM-2 Top 10%,imm_2_top_10
+s5xg-sys6,Flu Season Start Date,flu_season_start_date
+s5xg-sys6,Flu Season End Date,flu_season_end_date
+dc76-gh7x,State,state
+dc76-gh7x,HBIPS-2 Measure Description,hbips_2_measure_description
+dc76-gh7x,S HBIPS-2 Overall Rate Per 1000,s_hbips_2_overall_rate_per_1000
+dc76-gh7x,S HBIPS-2 Overall Num,s_hbips_2_overall_num
+dc76-gh7x,S HBIPS-2 Overall Den,s_hbips_2_overall_den
+dc76-gh7x,HBIPS-3 Measure Description,hbips_3_measure_description
+dc76-gh7x,S HBIPS-3 Overall Rate Per 1000,s_hbips_3_overall_rate_per_1000
+dc76-gh7x,S HBIPS-3 Overall Num,s_hbips_3_overall_num
+dc76-gh7x,S HBIPS-3 Overall Den,s_hbips_3_overall_den
+dc76-gh7x,SMD Measure Description,smd_measure_description
+dc76-gh7x,S SMD %,s_smd
+dc76-gh7x,SUB-2/-2a Measure Description,sub_2_2a_measure_description
+dc76-gh7x,S SUB-2 %,s_sub_2
+dc76-gh7x,S SUB-2a %,s_sub_2a
+dc76-gh7x,SUB-3/-3a Measure Description,sub_3_3a_measure_description
+dc76-gh7x,S SUB-3 %,s_sub_3
+dc76-gh7x,S SUB-3a %,s_sub_3a
+dc76-gh7x,TOB-3/-3a Measure Description,tob_3_3a_measure_description
+dc76-gh7x,S TOB-3 %,s_tob_3
+dc76-gh7x,S TOB-3a %,s_tob_3a
+dc76-gh7x,TR-1 Measure Description,tr_1_measure_description
+dc76-gh7x,S TR-1 %,s_tr_1
+dc76-gh7x,Start Date,start_date
+dc76-gh7x,End Date,end_date
+dc76-gh7x,FAPH Measure Description,faph_measure_description
+dc76-gh7x,S FAPH-30 %,s_faph_30
+dc76-gh7x,S FAPH-7 %,s_faph_7
+dc76-gh7x,FAPH Measure Start Date,faph_measure_start_date
+dc76-gh7x,FAPH Measure End Date,faph_measure_end_date
+dc76-gh7x,MedCont Measure Description,med_cont_measure_description
+dc76-gh7x,S MedCont %,s_med_cont
+dc76-gh7x,MedCont Measure Start Date,med_cont_measure_start_date
+dc76-gh7x,MedCont Measure End Date,med_cont_measure_end_date
+dc76-gh7x,READM-30-IPF Measure Desc,readm_30_ipf_measure_desc
+dc76-gh7x,S READM-30-IPF # IPFs Worse,s_readm_30_ipf_ipfs_worse
+dc76-gh7x,S READM-30-IPF # IPFs Same,s_readm_30_ipf_ipfs_same
+dc76-gh7x,S READM-30-IPF # IPFs Better,s_readm_30_ipf_ipfs_better
+dc76-gh7x,S READM-30-IPF # IPFs Too Few,s_readm_30_ipf_ipfs_too_few
+dc76-gh7x,READM-30-IPF Start Date,readm_30_ipf_start_date
+dc76-gh7x,READM-30-IPF End Date,readm_30_ipf_end_date
+dc76-gh7x,IMM-2 Measure Description,imm_2_measure_description
+dc76-gh7x,S IMM-2 %,s_imm_2
+dc76-gh7x,Flu Season Start Date,flu_season_start_date
+dc76-gh7x,Flu Season End Date,flu_season_end_date
+4j6d-yzce,Measure ID,measure_id
+4j6d-yzce,Measure Name,measure_name
+4j6d-yzce,Measure Start Quarter,measure_start_quarter
+4j6d-yzce,Start Date,start_date
+4j6d-yzce,Measure End Quarter,measure_end_quarter
+4j6d-yzce,End Date,end_date
+nrth-mfg3,Facility Name,facility_name
+nrth-mfg3,Facility ID,facility_id
+nrth-mfg3,State,state
+nrth-mfg3,Period,period
+nrth-mfg3,Claim Type,claim_type
+nrth-mfg3,Avg Spndg Per EP Hospital,avg_spndg_per_ep_hospital
+nrth-mfg3,Avg Spndg Per EP State,avg_spndg_per_ep_state
+nrth-mfg3,Avg Spndg Per EP National,avg_spndg_per_ep_national
+nrth-mfg3,Percent of Spndg Hospital,percent_of_spndg_hospital
+nrth-mfg3,Percent of Spndg State,percent_of_spndg_state
+nrth-mfg3,Percent of Spndg National,percent_of_spndg_national
+nrth-mfg3,Start Date,start_date
+nrth-mfg3,End Date,end_date
+rrqw-56er,Facility ID,facility_id
+rrqw-56er,Facility Name,facility_name
+rrqw-56er,Address,address
+rrqw-56er,City/Town,city_town
+rrqw-56er,State,state
+rrqw-56er,ZIP Code,zip_code
+rrqw-56er,County/Parish,county_parish
+rrqw-56er,Telephone Number,telephone_number
+rrqw-56er,Measure ID,measure_id
+rrqw-56er,Measure Name,measure_name
+rrqw-56er,Score,score
+rrqw-56er,Footnote,footnote
+rrqw-56er,Start Date,start_date
+rrqw-56er,End Date,end_date
+3n5g-6b7f,Measure ID,measure_id
+3n5g-6b7f,Measure Name,measure_name
+3n5g-6b7f,Score,score
+3n5g-6b7f,Footnote - Score,footnote_score
+3n5g-6b7f,National Median,national_median
+3n5g-6b7f,Footnote - National Median,footnote_national_median
+3n5g-6b7f,Start Date,start_date
+3n5g-6b7f,End Date,end_date
+rs6n-9qwg,State,state
+rs6n-9qwg,Measure ID,measure_id
+rs6n-9qwg,Measure Name,measure_name
+rs6n-9qwg,Score,score
+rs6n-9qwg,Footnote,footnote
+rs6n-9qwg,Start Date,start_date
+rs6n-9qwg,End Date,end_date
+wkfw-kthe,Facility ID,facility_id
+wkfw-kthe,Facility Name,facility_name
+wkfw-kthe,Address,address
+wkfw-kthe,City/Town,city_town
+wkfw-kthe,State,state
+wkfw-kthe,ZIP Code,zip_code
+wkfw-kthe,County/Parish,county_parish
+wkfw-kthe,Telephone Number,telephone_number
+wkfw-kthe,Measure ID,measure_id
+wkfw-kthe,Measure Name,measure_name
+wkfw-kthe,Score,score
+wkfw-kthe,Footnote,footnote
+wkfw-kthe,Start Date,start_date
+wkfw-kthe,End Date,end_date
+di9i-zzrc,Measure ID,measure_id
+di9i-zzrc,Measure Name,measure_name
+di9i-zzrc,Score,score
+di9i-zzrc,Footnote,footnote
+di9i-zzrc,Start Date,start_date
+di9i-zzrc,End Date,end_date
+if5v-4x48,State,state
+if5v-4x48,Measure ID,measure_id
+if5v-4x48,Measure Name,measure_name
+if5v-4x48,Score,score
+if5v-4x48,Footnote,footnote
+if5v-4x48,Start Date,start_date
+if5v-4x48,End Date,end_date
+yv7e-xc69,Facility ID,facility_id
+yv7e-xc69,Facility Name,facility_name
+yv7e-xc69,Address,address
+yv7e-xc69,City/Town,city_town
+yv7e-xc69,State,state
+yv7e-xc69,ZIP Code,zip_code
+yv7e-xc69,County/Parish,county_parish
+yv7e-xc69,Telephone Number,telephone_number
+yv7e-xc69,Condition,condition
+yv7e-xc69,Measure ID,measure_id
+yv7e-xc69,Measure Name,measure_name
+yv7e-xc69,Score,score
+yv7e-xc69,Sample,sample
+yv7e-xc69,Footnote,footnote
+yv7e-xc69,Start Date,start_date
+yv7e-xc69,End Date,end_date
+isrn-hqyy,Measure ID,measure_id
+isrn-hqyy,Measure Name,measure_name
+isrn-hqyy,Condition,condition
+isrn-hqyy,Category,category
+isrn-hqyy,Score,score
+isrn-hqyy,Footnote,footnote
+isrn-hqyy,Start Date,start_date
+isrn-hqyy,End Date,end_date
+apyc-v239,State,state
+apyc-v239,Condition,condition
+apyc-v239,Measure ID,measure_id
+apyc-v239,Measure Name,measure_name
+apyc-v239,Score,score
+apyc-v239,Footnote,footnote
+apyc-v239,Start Date,start_date
+apyc-v239,End Date,end_date
+632h-zaca,Facility ID,facility_id
+632h-zaca,Facility Name,facility_name
+632h-zaca,Address,address
+632h-zaca,City/Town,city_town
+632h-zaca,State,state
+632h-zaca,ZIP Code,zip_code
+632h-zaca,County/Parish,county_parish
+632h-zaca,Telephone Number,telephone_number
+632h-zaca,Measure ID,measure_id
+632h-zaca,Measure Name,measure_name
+632h-zaca,Compared to National,compared_to_national
+632h-zaca,Denominator,denominator
+632h-zaca,Score,score
+632h-zaca,Lower Estimate,lower_estimate
+632h-zaca,Higher Estimate,higher_estimate
+632h-zaca,Number of Patients,number_of_patients
+632h-zaca,Number of Patients Returned,number_of_patients_returned
+632h-zaca,Footnote,footnote
+632h-zaca,Start Date,start_date
+632h-zaca,End Date,end_date
+cvcs-xecj,Measure ID,measure_id
+cvcs-xecj,Measure Name,measure_name
+cvcs-xecj,National Rate,national_rate
+cvcs-xecj,Number of Hospitals Worse,number_of_hospitals_worse
+cvcs-xecj,Number of Hospitals Same,number_of_hospitals_same
+cvcs-xecj,Number of Hospitals Better,number_of_hospitals_better
+cvcs-xecj,Number of Hospitals Too Few,number_of_hospitals_too_few
+cvcs-xecj,Footnote,footnote
+cvcs-xecj,Start Date,start_date
+cvcs-xecj,End Date,end_date
+cvcs-xecj,Number of Hospitals Fewer,number_of_hospitals_fewer
+cvcs-xecj,Number of Hospitals Average,number_of_hospitals_average
+cvcs-xecj,Number of Hospitals More,number_of_hospitals_more
+cvcs-xecj,Number of Hospitals Too Small,number_of_hospitals_too_small
+4gkm-5ypv,State,state
+4gkm-5ypv,Measure ID,measure_id
+4gkm-5ypv,Measure Name,measure_name
+4gkm-5ypv,Number of Hospitals Worse,number_of_hospitals_worse
+4gkm-5ypv,Number of Hospitals Same,number_of_hospitals_same
+4gkm-5ypv,Number of Hospitals Better,number_of_hospitals_better
+4gkm-5ypv,Number of Hospitals Too Few,number_of_hospitals_too_few
+4gkm-5ypv,Footnote,footnote
+4gkm-5ypv,Start Date,start_date
+4gkm-5ypv,End Date,end_date
+4gkm-5ypv,Number of Hospitals Fewer,number_of_hospitals_fewer
+4gkm-5ypv,Number of Hospitals Average,number_of_hospitals_average
+4gkm-5ypv,Number of Hospitals More,number_of_hospitals_more
+4gkm-5ypv,Number of Hospitals Too Small,number_of_hospitals_too_small
+6qxe-iqz8,Facility ID,facility_id
+6qxe-iqz8,Facility Name,facility_name
+6qxe-iqz8,Address,address
+6qxe-iqz8,City/Town,city_town
+6qxe-iqz8,State,state
+6qxe-iqz8,ZIP Code,zip_code
+6qxe-iqz8,County/Parish,county_parish
+6qxe-iqz8,Telephone Number,telephone_number
+6qxe-iqz8,Condition,condition
+6qxe-iqz8,Measure ID,measure_id
+6qxe-iqz8,Measure Name,measure_name
+6qxe-iqz8,Score,score
+6qxe-iqz8,Sample,sample
+6qxe-iqz8,Footnote,footnote
+6qxe-iqz8,Start Date,start_date
+6qxe-iqz8,End Date,end_date
+ptds-r8im,Facility ID,facility_id
+ptds-r8im,Facility Name,facility_name
+ptds-r8im,Address,address
+ptds-r8im,City/Town,city_town
+ptds-r8im,State,state
+ptds-r8im,ZIP Code,zip_code
+ptds-r8im,County/Parish,county_parish
+ptds-r8im,Telephone Number,telephone_number
+ptds-r8im,Condition,condition
+ptds-r8im,Measure ID,measure_id
+ptds-r8im,Measure Name,measure_name
+ptds-r8im,STTag,sttag
+ptds-r8im,Score,score
+ptds-r8im,Sample,sample
+ptds-r8im,Footnote,footnote
+ptds-r8im,Start Date,start_date
+ptds-r8im,End Date,end_date
+uyx4-5s7f,Facility ID,facility_id
+uyx4-5s7f,Facility Name,facility_name
+uyx4-5s7f,Address,address
+uyx4-5s7f,City/Town,city_town
+uyx4-5s7f,State,state
+uyx4-5s7f,ZIP Code,zip_code
+uyx4-5s7f,County/Parish,county_parish
+uyx4-5s7f,Telephone Number,telephone_number
+uyx4-5s7f,Hospital Type,hospital_type
+uyx4-5s7f,Hospital Ownership,hospital_ownership
+uyx4-5s7f,Emergency Services,emergency_services
+uyx4-5s7f,Hospital overall rating,hospital_overall_rating
+uyx4-5s7f,Hospital overall rating footnote,hospital_overall_rating_footnote
+bzsr-4my4,https://data.cms.gov/provider-data/ location affected,https_data_cms_gov_provider_data_location_affected
+bzsr-4my4,Downloadable CSV revised file affected,downloadable_csv_revised_file_affected
+bzsr-4my4,Data Last Updated,data_last_updated
+bzsr-4my4,Data Last Updated Details,data_last_updated_details
+nrdb-3fcy,Facility ID,facility_id
+nrdb-3fcy,Facility Name,facility_name
+nrdb-3fcy,Address,address
+nrdb-3fcy,City/Town,city_town
+nrdb-3fcy,State,state
+nrdb-3fcy,ZIP Code,zip_code
+nrdb-3fcy,County/Parish,county_parish
+nrdb-3fcy,Telephone Number,telephone_number
+nrdb-3fcy,Measure ID,measure_id
+nrdb-3fcy,Measure Name,measure_name
+nrdb-3fcy,Score,score
+nrdb-3fcy,Sample,sample
+nrdb-3fcy,Footnote,footnote
+nrdb-3fcy,Start Date,start_date
+nrdb-3fcy,End Date,end_date
+mxtu-43qs,Facility ID,facility_id
+mxtu-43qs,Facility Name,facility_name
+mxtu-43qs,Address,address
+mxtu-43qs,City/Town,city_town
+mxtu-43qs,State,state
+mxtu-43qs,ZIP Code,zip_code
+mxtu-43qs,County/Parish,county_parish
+mxtu-43qs,Telephone Number,telephone_number
+mxtu-43qs,Measure ID,measure_id
+mxtu-43qs,Measure Name,measure_name
+mxtu-43qs,Voluntary_Reporting,voluntary_reporting
+mxtu-43qs,Score,score
+mxtu-43qs,Footnote,footnote
+mxtu-43qs,Start Date,start_date
+mxtu-43qs,End Date,end_date
+qoeg-w7ck,Facility ID,facility_id
+qoeg-w7ck,Facility Name,facility_name
+qoeg-w7ck,Hospital Type,hospital_type
+qoeg-w7ck,Address,address
+qoeg-w7ck,City/Town,city_town
+qoeg-w7ck,State,state
+qoeg-w7ck,ZIP Code,zip_code
+qoeg-w7ck,County/Parish,county_parish
+qoeg-w7ck,Measure ID,measure_id
+qoeg-w7ck,Measure Description,measure_description
+qoeg-w7ck,Total Cases,total_cases
+qoeg-w7ck,Rate,rate
+qoeg-w7ck,Footnote,footnote
+qoeg-w7ck,Start Date,start_date
+qoeg-w7ck,End Date,end_date
+qigt-w5cx,Measure ID,measure_id
+qigt-w5cx,Measure Description,measure_description
+qigt-w5cx,National Rate,national_rate
+qigt-w5cx,Start Date,start_date
+qigt-w5cx,End Date,end_date
+f4ga-b9gx,Facility ID,facility_id
+f4ga-b9gx,Facility Name,facility_name
+f4ga-b9gx,Address,address
+f4ga-b9gx,City/Town,city_town
+f4ga-b9gx,State,state
+f4ga-b9gx,ZIP Code,zip_code
+f4ga-b9gx,County/Parish,county_parish
+f4ga-b9gx,Telephone Number,telephone_number
+f4ga-b9gx,CEHRT ID,cehrt_id
+f4ga-b9gx,Meets criteria for promoting interoperability of EHRs,meets_criteria_for_promoting_interoperability_of_ehrs
+f4ga-b9gx,Start Date,start_date
+f4ga-b9gx,End Date,end_date
+hbf-map,name,name
+hbf-map,addr,addr
+hbf-map,city,city
+hbf-map,state,state
+hbf-map,zip,zip
+hbf-map,lat,lat
+hbf-map,lon,lon
+97xg-v3wv,Facility ID,facility_id
+97xg-v3wv,Facility Name,facility_name
+97xg-v3wv,Address,address
+97xg-v3wv,City/Town,city_town
+97xg-v3wv,State,state
+97xg-v3wv,ZIP Code,zip_code
+97xg-v3wv,County/Parish,county_parish
+97xg-v3wv,Telephone Number,telephone_number
+97xg-v3wv,Condition,condition
+97xg-v3wv,Measure ID,measure_id
+97xg-v3wv,Measure Name,measure_name
+97xg-v3wv,Score,score
+97xg-v3wv,Sample,sample
+97xg-v3wv,Footnote,footnote
+97xg-v3wv,Start Date,start_date
+97xg-v3wv,End Date,end_date
+d2k3-k3ac,Measure ID,measure_id
+d2k3-k3ac,Measure Name,measure_name
+d2k3-k3ac,Condition,condition
+d2k3-k3ac,Category,category
+d2k3-k3ac,Score,score
+d2k3-k3ac,Footnote,footnote
+d2k3-k3ac,Start Date,start_date
+d2k3-k3ac,End Date,end_date
+7peb-i4pi,Facility ID,facility_id
+7peb-i4pi,Facility Name,facility_name
+7peb-i4pi,Address,address
+7peb-i4pi,City/Town,city_town
+7peb-i4pi,State,state
+7peb-i4pi,ZIP Code,zip_code
+7peb-i4pi,County/Parish,county_parish
+7peb-i4pi,Telephone Number,telephone_number
+7peb-i4pi,Measure ID,measure_id
+7peb-i4pi,Measure Name,measure_name
+7peb-i4pi,Score,score
+7peb-i4pi,Footnote,footnote
+7peb-i4pi,Start Date,start_date
+7peb-i4pi,End Date,end_date
+zt3q-3e1z,Measure ID,measure_id
+zt3q-3e1z,Measure Name,measure_name
+zt3q-3e1z,Score,score
+zt3q-3e1z,Footnote,footnote
+zt3q-3e1z,Start Date,start_date
+zt3q-3e1z,End Date,end_date
+zez1-ka2w,Facility ID,facility_id
+zez1-ka2w,Facility Name,facility_name
+zez1-ka2w,Address,address
+zez1-ka2w,City/Town,city_town
+zez1-ka2w,State,state
+zez1-ka2w,ZIP Code,zip_code
+zez1-ka2w,County/Parish,county_parish
+zez1-ka2w,Telephone Number,telephone_number
+zez1-ka2w,Measure ID,measure_id
+zez1-ka2w,Measure Name,measure_name
+zez1-ka2w,Compared to National,compared_to_national
+zez1-ka2w,Denominator,denominator
+zez1-ka2w,Score,score
+zez1-ka2w,Lower Estimate,lower_estimate
+zez1-ka2w,Higher Estimate,higher_estimate
+zez1-ka2w,Footnote,footnote
+zez1-ka2w,Start Date,start_date
+zez1-ka2w,End Date,end_date
+uk3n-au7a,Measure ID,measure_id
+uk3n-au7a,Measure Name,measure_name
+uk3n-au7a,National Rate,national_rate
+uk3n-au7a,Number of Hospitals Worse,number_of_hospitals_worse
+uk3n-au7a,Number of Hospitals Same,number_of_hospitals_same
+uk3n-au7a,Number of Hospitals Better,number_of_hospitals_better
+uk3n-au7a,Number of Hospitals Too Few,number_of_hospitals_too_few
+uk3n-au7a,Footnote,footnote
+uk3n-au7a,Start Date,start_date
+uk3n-au7a,End Date,end_date
+1su6-zfft,Facility ID,facility_id
+1su6-zfft,Facility Name,facility_name
+1su6-zfft,Hospital Type,hospital_type
+1su6-zfft,Address,address
+1su6-zfft,City/Town,city_town
+1su6-zfft,State,state
+1su6-zfft,ZIP Code,zip_code
+1su6-zfft,County/Parish,county_parish
+1su6-zfft,Measure ID,measure_id
+1su6-zfft,Measure Description,measure_description
+1su6-zfft,Total Cases,total_cases
+1su6-zfft,Rate,rate
+1su6-zfft,Footnote,footnote
+1su6-zfft,Start Date,start_date
+1su6-zfft,End Date,end_date
+4dyz-5kt1,Measure ID,measure_id
+4dyz-5kt1,Measure Description,measure_description
+4dyz-5kt1,National Rate,national_rate
+4dyz-5kt1,Start Date,start_date
+4dyz-5kt1,End Date,end_date

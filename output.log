@@ -1,0 +1,81 @@
+C:\Python312\python.exe C:\Users\rober\cms_hospitals_etl\cms_hospitals_etl.py --full-refresh 
+2026-10-20 00:01:43,664 INFO MainThread Run 4 started
+2026-10-20 00:01:44,066 INFO MainThread 75 'Hospitals' datasets found: 75 new/modified, 0 unchanged
+2026-10-20 00:01:44,190 INFO MainThread OK wue8-3vwe  rows=1 cols=37  Ambulatory Surgical Center Quality Measures - National
+2026-10-20 00:01:44,195 INFO MainThread OK tf3h-mrrs  rows=1 cols=21  Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National
+2026-10-20 00:01:44,200 INFO MainThread OK x663-bwbj  rows=56 cols=22  Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State
+2026-10-20 00:01:44,204 INFO MainThread OK axe7-s95e  rows=54 cols=34  Ambulatory Surgical Center Quality Measures - State
+2026-10-20 00:01:44,234 INFO MainThread OK tqkv-mgxq  rows=320 cols=18  Comprehensive Care For Joint Replacement Model - Provider Data
+2026-10-20 00:01:44,308 INFO MainThread OK qqw3-t4ie  rows=20 cols=10  Complications and Deaths - National
+2026-10-20 00:01:44,314 INFO MainThread OK y9us-9xdf  rows=32 cols=2  Footnote Crosswalk
+2026-10-20 00:01:44,347 INFO MainThread OK xrgf-x36b  rows=13 cols=2  Table 2: FY2024 Distribution of Net Change in Base Operating DRG Payment Amount
+2026-10-20 00:01:44,420 INFO MainThread OK bs2r-24vh  rows=1120 cols=10  Complications and Deaths - State
+2026-10-20 00:01:44,430 INFO MainThread OK u625-zae7  rows=23 cols=2  Table 3: FY2024 Percent Change in Medicare Payments
+2026-10-20 00:01:44,436 INFO MainThread OK 5gv4-jwyv  rows=33 cols=2  Table 1: FY2024 Net Change in Base Operating DRG Payment Amount
+2026-10-20 00:01:44,479 INFO MainThread OK vtqa-m4zn  rows=25 cols=2  Table 4: FY2024 Value-Based Incentive Payment Amount
+2026-10-20 00:01:44,501 INFO MainThread OK 48nr-hqxx  rows=4744 cols=30  Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - Facility
+2026-10-20 00:01:44,563 INFO MainThread OK 99ue-w85f  rows=51 cols=7  Patient survey (HCAHPS) - National
+2026-10-20 00:01:44,639 INFO MainThread OK yd3s-jyhd  rows=6 cols=6  Healthcare Associated Infections - National
+2026-10-20 00:01:44,834 INFO MainThread OK k2ze-bqvw  rows=1008 cols=7  Healthcare Associated Infections - State
+2026-10-20 00:01:44,930 INFO MainThread OK 4jcv-atw7  rows=5711 cols=47  Ambulatory Surgical Center Quality Measures - Facility
+2026-10-20 00:01:44,943 INFO MainThread OK s5pj-hua3  rows=15 cols=7  Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National
+2026-10-20 00:01:45,071 INFO MainThread OK 84jm-wiui  rows=2856 cols=8  Patient survey (HCAHPS) - State
+2026-10-20 00:01:45,209 INFO MainThread OK z8ax-x9j1  rows=44 cols=18  Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - Hospital
+2026-10-20 00:01:45,307 INFO MainThread OK 6pfg-whmx  rows=840 cols=8  Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State
+2026-10-20 00:01:45,344 INFO MainThread OK jfnd-nl7s  rows=4 cols=9  Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - National
+2026-10-20 00:01:45,779 INFO MainThread OK 5hk7-b79m  rows=2974 cols=6  Medicare Spending Per Beneficiary - Hospital Additional Decimal Places
+2026-10-20 00:01:46,017 INFO MainThread OK xubh-q36u  rows=5419 cols=38  Hospital General Information
+2026-10-20 00:01:46,031 INFO MainThread OK k653-4ka8  rows=308 cols=14  Safety and Healthcare-Associated Infection Measures - PPS-Exempt Cancer Hospital
+2026-10-20 00:01:46,047 INFO MainThread OK yq43-i98g  rows=3055 cols=36  Hospital-Acquired Condition (HAC) Reduction Program
+2026-10-20 00:01:46,146 INFO MainThread OK 9g7e-btyt  rows=51 cols=6  Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - National
+2026-10-20 00:01:46,475 INFO MainThread OK iy27-wz37  rows=748 cols=22  Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - Hospital
+2026-10-20 00:01:46,648 INFO MainThread OK qatj-nmws  rows=2856 cols=7  Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - State
+2026-10-20 00:01:47,673 INFO MainThread OK muwa-iene  rows=52338 cols=13  CMS Medicare PSI-90 and component measures - six-digit estimate dataset
+2026-10-20 00:01:47,868 INFO MainThread OK pudb-wetr  rows=2455 cols=50  Hospital Value-Based Purchasing (HVBP) - Clinical Outcomes Domain Scores
+2026-10-20 00:01:48,174 INFO MainThread OK su9h-3pvj  rows=2455 cols=15  Hospital Value-Based Purchasing (HVBP) - Efficiency Scores
+2026-10-20 00:01:48,609 INFO MainThread OK avtz-f2ge  rows=2455 cols=74  Hospital Value-Based Purchasing (HVBP) - Person and Community Engagement Domain Scores (HCAHPS)
+2026-10-20 00:01:48,782 INFO MainThread OK ypbt-wvdk  rows=2455 cols=17  Hospital Value-Based Purchasing (HVBP) - Total Performance Score
+2026-10-20 00:01:48,902 INFO MainThread OK s5xg-sys6  rows=1 cols=56  Inpatient Psychiatric Facility Quality Measure Data - National
+2026-10-20 00:01:48,923 INFO MainThread OK dgmq-aat3  rows=2455 cols=58  Hospital Value-Based Purchasing (HVBP) - Safety
+2026-10-20 00:01:49,067 INFO MainThread OK 4j6d-yzce  rows=171 cols=6  Measure Dates
+2026-10-20 00:01:49,122 INFO MainThread OK dc76-gh7x  rows=52 cols=44  Inpatient Psychiatric Facility Quality Measure Data - by State
+2026-10-20 00:01:49,519 INFO MainThread OK q9vs-r7wp  rows=1410 cols=78  Inpatient Psychiatric Facility Quality Measure Data - by Facility
+2026-10-20 00:01:49,757 INFO MainThread OK rrqw-56er  rows=4626 cols=14  Medicare Spending Per Beneficiary - Hospital
+2026-10-20 00:01:49,886 INFO MainThread OK rs6n-9qwg  rows=56 cols=7  Medicare Spending Per Beneficiary - State
+2026-10-20 00:01:49,902 INFO MainThread OK 3n5g-6b7f  rows=1 cols=8  Medicare Spending Per Beneficiary - National
+2026-10-20 00:01:49,991 INFO MainThread OK 9n3s-kdb3  rows=18330 cols=12  Hospital Readmissions Reduction Program
+2026-10-20 00:01:50,081 INFO MainThread OK di9i-zzrc  rows=2 cols=6  Outpatient Imaging Efficiency - National
+2026-10-20 00:01:50,174 INFO MainThread OK if5v-4x48  rows=112 cols=7  Outpatient Imaging Efficiency - State
+2026-10-20 00:01:50,317 INFO MainThread OK isrn-hqyy  rows=45 cols=8  Timely and Effective Care - National
+2026-10-20 00:01:50,666 INFO MainThread OK apyc-v239  rows=1736 cols=8  Timely and Effective Care - State
+2026-10-20 00:01:50,897 INFO MainThread OK wkfw-kthe  rows=9252 cols=14  Outpatient Imaging Efficiency - Hospital
+2026-10-20 00:01:50,993 INFO MainThread OK cvcs-xecj  rows=14 cols=14  Unplanned Hospital Visits - National
+2026-10-20 00:01:51,455 INFO MainThread OK 4gkm-5ypv  rows=784 cols=14  Unplanned Hospital Visits - State
+2026-10-20 00:01:51,697 INFO MainThread OK 6qxe-iqz8  rows=660 cols=16  Veterans Health Administration Behavioral Health Data
+2026-10-20 00:01:52,192 INFO MainThread OK ptds-r8im  rows=1452 cols=17  Veterans Health Administration Timely and Effective Care Data
+2026-10-20 00:01:52,648 INFO MainThread OK uyx4-5s7f  rows=132 cols=13  Veterans Health Administration Provider Level Data
+2026-10-20 00:01:53,029 INFO MainThread OK bzsr-4my4  rows=1229 cols=4  Data Updates
+2026-10-20 00:01:53,406 INFO MainThread OK nrth-mfg3  rows=63646 cols=13  Medicare Hospital Spending by Claim
+2026-10-20 00:01:53,712 INFO MainThread OK ynj2-r877  rows=95800 cols=18  Complications and Deaths - Hospital
+2026-10-20 00:01:53,834 INFO MainThread OK qoeg-w7ck  rows=44 cols=15  Palliative Care - PPS-Exempt Cancer Hospital - Hospital
+2026-10-20 00:01:53,941 INFO MainThread OK qigt-w5cx  rows=4 cols=5  Palliative Care - PPS-Exempt Cancer Hospital - National
+2026-10-20 00:01:54,161 INFO MainThread OK mxtu-43qs  rows=4626 cols=15  Patient-Reported Outcomes - Hospital
+2026-10-20 00:01:54,330 INFO MainThread OK f4ga-b9gx  rows=4626 cols=12  Promoting Interoperability - Hospital
+2026-10-20 00:01:54,401 INFO MainThread OK hbf-map  rows=2263 cols=7  Birthing Friendly Hospitals with Geocoded Addresses
+2026-10-20 00:01:54,545 INFO MainThread OK d2k3-k3ac  rows=8 cols=8  Rural Emergency Hospital Timely and Effective Care - National
+2026-10-20 00:01:54,749 INFO MainThread OK 7peb-i4pi  rows=43 cols=14  Rural Emergency Hospital Outpatient Imaging Efficiency - Hospital
+2026-10-20 00:01:54,801 INFO MainThread OK 97xg-v3wv  rows=172 cols=16  Rural Emergency Hospital Timely and Effective Care - Hospital
+2026-10-20 00:01:54,883 INFO MainThread OK zt3q-3e1z  rows=1 cols=6  Rural Emergency Hospital Outpatient Imaging Efficiency - National
+2026-10-20 00:01:54,904 INFO MainThread OK zez1-ka2w  rows=43 cols=18  Rural Emergency Hospital Unplanned Hospital Visits - Hospital
+2026-10-20 00:01:55,010 INFO MainThread OK nrdb-3fcy  rows=17936 cols=15  Maternal Health - Hospital
+2026-10-20 00:01:55,023 INFO MainThread OK uk3n-au7a  rows=1 cols=10  Rural Emergency Hospital Unplanned Hospital Visits - National
+2026-10-20 00:01:55,029 INFO MainThread OK 1su6-zfft  rows=11 cols=15  Patient Engagement PPS-Exempt Cancer Hospital - Hospital
+2026-10-20 00:01:55,126 INFO MainThread OK 4dyz-5kt1  rows=1 cols=5  Patient Engagement PPS-Exempt Cancer Hospital - National
+2026-10-20 00:01:58,428 INFO MainThread OK yizn-abxn  rows=92520 cols=20  Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility
+2026-10-20 00:01:58,893 INFO MainThread OK 632h-zaca  rows=67060 cols=20  Unplanned Hospital Visits - Hospital
+2026-10-20 00:01:59,585 INFO MainThread OK 77hc-ibv8  rows=172440 cols=15  Healthcare Associated Infections - Hospital
+2026-10-20 00:02:04,264 INFO MainThread OK yv7e-xc69  rows=138084 cols=16  Timely and Effective Care - Hospital
+2026-10-20 00:02:17,079 INFO MainThread OK dgck-syfz  rows=325720 cols=22  Patient survey (HCAHPS) - Hospital
+2026-10-20 00:02:17,086 INFO MainThread Run 4 finished: downloaded=75 skipped=0 failed=0
+
+Process finished with exit code 0

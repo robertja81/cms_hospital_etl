@@ -1,0 +1,4 @@
+run_id,started_at,finished_at,status,datasets_found,downloaded,skipped,failed
+1,2026-10-20T05:08:58+00:00,2026-10-20T05:15:04+00:00,failed,0,0,0,0
+2,2026-10-20T05:15:05+00:00,2026-10-20T05:17:23+00:00,success,75,75,0,0
+3,2026-10-20T05:17:48+00:00,2026-10-20T05:18:23+00:00,success,75,75,0,0
